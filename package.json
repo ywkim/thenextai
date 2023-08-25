@@ -1,42 +1,39 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "the-next-ai",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Join us in building an AI that not only educates but also nurtures emotional and moral development in children.",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
+  "author": "The Next AI Team <youngwook.kim@gmail.com>",
   "dependencies": {
-    "@fontsource/merriweather": "^5.0.3",
     "@fontsource-variable/montserrat": "^5.0.4",
-    "gatsby": "^5.12.1",
-    "gatsby-plugin-feed": "^5.12.0",
-    "gatsby-plugin-image": "^3.12.0",
-    "gatsby-plugin-manifest": "^5.12.0",
-    "gatsby-plugin-sharp": "^5.12.0",
-    "gatsby-remark-images": "^7.12.0",
-    "gatsby-remark-prismjs": "^7.12.0",
-    "gatsby-remark-responsive-iframe": "^6.12.0",
-    "gatsby-source-filesystem": "^5.12.0",
-    "gatsby-transformer-remark": "^6.12.0",
-    "gatsby-transformer-sharp": "^5.12.0",
+    "@fontsource/merriweather": "^5.0.3",
+    "gatsby": "^5.11.0",
+    "gatsby-plugin-disqus": "^1.2.6",
+    "gatsby-plugin-feed": "^5.11.0",
+    "gatsby-plugin-image": "^3.11.0",
+    "gatsby-plugin-manifest": "^5.11.0",
+    "gatsby-plugin-sharp": "^5.11.0",
+    "gatsby-plugin-sitemap": "^6.11.0",
+    "gatsby-remark-copy-linked-files": "^6.11.0",
+    "gatsby-remark-images": "^7.11.0",
+    "gatsby-remark-prismjs": "^7.11.0",
+    "gatsby-remark-responsive-iframe": "^6.11.1",
+    "gatsby-source-filesystem": "^5.11.0",
+    "gatsby-transformer-remark": "^6.11.0",
+    "gatsby-transformer-sharp": "^5.11.0",
     "prismjs": "^1.29.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "prettier": "^2.8.8"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/ywkim",
   "keywords": [
-    "gatsby"
+    "the-next-ai", "ai", "children", "education", "emotional-development", "moral-development", "gatsby"
   ],
   "license": "0BSD",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
-  },
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -44,6 +41,7 @@
     "start": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "deploy": "gatsby build && gh-pages -d public -b main"
   }
 }
