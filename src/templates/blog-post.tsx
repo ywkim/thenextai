@@ -72,15 +72,22 @@ const BlogPostTemplate: React.FC<BlogPostTemplateProps> = ({
         itemType="http://schema.org/Article"
       >
         <header>
-          <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <h1
+            className="text-4xl font-black tracking-tight"
+            itemProp="headline"
+          >
+            {post.frontmatter.title}
+          </h1>
+          <p className="text-base font-serif mt-4 mb-8">
+            {post.frontmatter.date}
+          </p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
-        <hr />
-        <footer>
+        <hr className="border-gray-200" />
+        <footer className="pt-6 pb-0 px-5">
           <Bio />
           <Disqus config={disqusConfig} />
         </footer>

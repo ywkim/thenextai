@@ -21,10 +21,13 @@ const Layout = ({ location, title, children }) => {
   }
 
   return (
-    <div className="global-wrapper" data-is-root-path={isRootPath}>
-      <header className="global-header">{header}</header>
+    <div
+      className="global-wrapper m-auto max-w-2xl py-10 px-5"
+      data-is-root-path={isRootPath}
+    >
+      <header className="global-header mb-12">{header}</header>
       <main>{children}</main>
-      <footer>
+      <footer className="pt-6 pb-0">
         © {new Date().getFullYear()}, Built with
         {` `}
         <a href="https://www.gatsbyjs.com">Gatsby</a>

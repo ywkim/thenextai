@@ -31,9 +31,9 @@ const Bio = () => {
   const social = data.site.siteMetadata?.social
 
   return (
-    <div className="bio">
+    <div className="bio flex mb-20">
       <StaticImage
-        className="bio-avatar"
+        className="bio-avatar mr-4 mb-0 w-12 h-12 rounded-full flex-none"
         layout="fixed"
         formats={["auto", "webp", "avif"]}
         src="../images/profile-pic.png"
@@ -43,7 +43,7 @@ const Bio = () => {
         alt="Profile picture"
       />
       {author?.name && (
-        <p>
+        <p className="mb-0">
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
           <a href={`https://github.com/${social?.github || ``}`}>
