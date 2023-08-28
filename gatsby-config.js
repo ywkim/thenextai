@@ -57,33 +57,6 @@ module.exports = {
           },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
-          {
-            resolve: "gatsby-remark-classes",
-            options: {
-              classMap: {
-                // With these settings, each markdown element can get
-                // customized Tailwind CSS styles during the build process.
-                // But due to the PurgeCSS tool used by the Tailwind CSS,
-                // the dynamically generated styles need to be safeguarded
-                // so that they are not eliminated during the build process.
-                // The safeguard process is done by adding all the dynamic classes
-                // that generated here to a "safelist" in the Tailwind CSS configuration.
-                "heading[depth=1]":
-                  "mt-8 text-4xl font-bold text-gray-900 mb-4",
-                "heading[depth=2]":
-                  "mt-8 text-3xl font-bold text-gray-800 mb-4",
-                "heading[depth=3]":
-                  "mt-8 text-2xl font-semibold text-gray-700 mb-4",
-                "heading[depth=4]":
-                  "mt-8 text-xl font-medium text-gray-600 mb-4",
-                "heading[depth=5]":
-                  "mt-8 text-lg font-medium text-gray-500 mb-4",
-                "heading[depth=6]":
-                  "mt-8 text-base font-medium text-gray-400 mb-4",
-                paragraph: "my-6 text-gray-700",
-              },
-            },
-          },
         ],
       },
     },

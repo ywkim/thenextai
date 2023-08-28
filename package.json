@@ -12,7 +12,6 @@
     "gatsby-plugin-manifest": "^5.11.0",
     "gatsby-plugin-sharp": "^5.11.0",
     "gatsby-plugin-sitemap": "^6.11.0",
-    "gatsby-remark-classes": "^1.0.2",
     "gatsby-remark-copy-linked-files": "^6.11.0",
     "gatsby-remark-images": "^7.11.0",
     "gatsby-remark-prismjs": "^7.11.0",
@@ -25,6 +24,7 @@
     "react-dom": "^18.1.0"
   },
   "devDependencies": {
+    "@tailwindcss/typography": "^0.5.9",
     "autoprefixer": "^10.4.15",
     "gatsby-plugin-postcss": "^6.12.0",
     "gh-pages": "^5.0.0",

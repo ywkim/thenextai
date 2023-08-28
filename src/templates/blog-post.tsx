@@ -67,7 +67,7 @@ const BlogPostTemplate: React.FC<BlogPostTemplateProps> = ({
   return (
     <Layout location={location} title={siteTitle}>
       <article
-        className="prose lg:prose-lg mx-auto"
+        className="mx-auto"
         itemScope
         itemType="http://schema.org/Article"
       >
@@ -85,8 +85,9 @@ const BlogPostTemplate: React.FC<BlogPostTemplateProps> = ({
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
+          className="prose lg:prose-lg"
         />
-        <hr className="border-gray-200" />
+        <hr className="border-gray-200 mt-6" />
         <footer className="pt-6 pb-0 px-5">
           <Bio />
           <Disqus config={disqusConfig} />
