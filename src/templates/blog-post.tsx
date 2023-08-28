@@ -67,7 +67,7 @@ const BlogPostTemplate: React.FC<BlogPostTemplateProps> = ({
   return (
     <Layout location={location} title={siteTitle}>
       <article
-        className="blog-post"
+        className="prose lg:prose-lg mx-auto"
         itemScope
         itemType="http://schema.org/Article"
       >
