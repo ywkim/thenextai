@@ -1,5 +1,5 @@
 import * as React from "react"
-import { Link, graphql } from "gatsby"
+import { Link, graphql, PageProps } from "gatsby"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -7,14 +7,59 @@ import Seo from "../components/seo"
 
 import { Disqus } from "gatsby-plugin-disqus"
 
-const BlogPostTemplate = ({
-  data: { previous, next, site, markdownRemark: post },
+interface MarkdownNode {
+  id: string
+  html: string
+  fields: {
+    slug: string
+  }
+  frontmatter: {
+    title: string
+    date: string
+    description: string
+  }
+  excerpt: string
+}
+
+interface PreviousNode {
+  fields: { slug: string }
+  frontmatter: { title: string }
+}
+interface NextNode {
+  fields: { slug: string }
+  frontmatter: { title: string }
+}
+
+interface PageQueryData {
+  site: {
+    siteMetadata: {
+      title: string
+      siteUrl: string
+    }
+  }
+  post: MarkdownNode
+  previous: PreviousNode
+  next: NextNode
+}
+
+interface BlogPostTemplateProps extends PageProps<PageQueryData> {
+  pageContext: {
+    previousPostId: string
+    nextPostId: string
+  }
+}
+
+interface HeadProps extends PageProps<PageQueryData> {}
+
+const BlogPostTemplate: React.FC<BlogPostTemplateProps> = ({
+  data,
   location,
 }) => {
-  const siteTitle = site.siteMetadata?.title || `Title`
+  const siteTitle = data.site.siteMetadata?.title || `Title`
+  const { post, previous, next } = data
 
-  let disqusConfig = {
-    url: `${site.siteMetadata?.siteUrl + location.pathname}`,
+  const disqusConfig = {
+    url: `${data.site.siteMetadata?.siteUrl + location.pathname}`,
     identifier: post.id,
     title: post.frontmatter.title,
   }
@@ -70,7 +115,9 @@ const BlogPostTemplate = ({
   )
 }
 
-export const Head = ({ data: { markdownRemark: post } }) => {
+export const Head: React.FC<HeadProps> = ({ data }) => {
+  const post = data.post
+
   return (
     <Seo
       title={post.frontmatter.title}
@@ -93,7 +140,7 @@ export const pageQuery = graphql`
         siteUrl
       }
     }
-    markdownRemark(id: { eq: $id }) {
+    post: markdownRemark(id: { eq: $id }) {
       id
       excerpt(pruneLength: 160)
       html
