@@ -46,19 +46,15 @@ const BlogIndex: React.FC<PageProps<DataProps>> = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Bio />
-      <ol className="list-none">
+      <ol className="space-y-4">
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
 
           return (
             <li key={post.fields.slug}>
-              <article
-                className="post-list-item"
-                itemScope
-                itemType="http://schema.org/Article"
-              >
+              <article className="bg-white rounded-lg shadow px-5 py-6 sm:px-6">
                 <header>
-                  <h2 className="text-4xl font-bold tracking-tight">
+                  <h2 className="text-2xl font-semibold text-gray-900">
                     <Link to={post.fields.slug} itemProp="url">
                       <span itemProp="headline">{title}</span>
                     </Link>

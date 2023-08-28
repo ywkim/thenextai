@@ -22,15 +22,25 @@ const Layout = ({ location, title, children }) => {
 
   return (
     <div
-      className="global-wrapper m-auto max-w-2xl py-10 px-5"
+      className="min-h-screen bg-gray-100 py-6 flex flex-col justify-center sm:py-12"
       data-is-root-path={isRootPath}
     >
-      <header className="global-header mb-12">{header}</header>
-      <main>{children}</main>
-      <footer className="pt-6 pb-0">
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
+      <div className="relative py-3 sm:max-w-xl sm:mx-auto">
+        <header className="px-4 py-5 bg-white shadow rounded-lg sm:px-6 lg:px-8 mb-8">
+          {header}
+        </header>
+        <div className="relative px-4 py-5 bg-white shadow rounded-lg sm:px-6 lg:px-8">
+          {children}
+        </div>
+      </div>
+      <footer className="fixed inset-x-0 bottom-0 h-12 flex items-center justify-center bg-white shadow">
+        © {new Date().getFullYear()}, Built with {` `}
+        <a
+          className="text-indigo-600 hover:text-indigo-500"
+          href="https://www.gatsbyjs.com"
+        >
+          Gatsby
+        </a>
       </footer>
     </div>
   )
