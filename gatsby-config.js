@@ -130,5 +130,6 @@ module.exports = {
         shortname: `ywkim`,
       },
     },
+    "gatsby-plugin-postcss",
   ],
 }
