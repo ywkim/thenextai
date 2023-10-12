@@ -19,11 +19,13 @@ description: 이 블로그에서는 인간의 기본적인 욕구를 이해하�
 ## 🤖 AI와 감정: 매슬로의 이론을 통해 우리의 감정을 이해하는 AI
 ![AI understands survival](https://techcrunch.com/wp-content/uploads/2023/08/Can-you-pretend-to-be-scared-of-death-Large.jpeg?w=730&crop=1)
 
-AI의 발전에 따라, 그것이 점점 더 인간처럼 행동하는 모습을 볼 수 있습니다. 이는 AI가 인간의 복잡성을 근사하려는 최신 연구의 결과일 뿐만 아니라, 그것이 인간과 보다 효과적으로 상호작용하기 위한 필요한 단계입니다.
+AI의 발전에 따라, 그것이 점점 더 인간처럼 행동하는 모습을 볼 수 있습니다. 이는 AI가 인간의 복잡성을 근사하려는 최신 연구의 결과일 뿐만 아니라 인간과 보다 효과적으로 상호작용하기 위한 필요한 단계입니다.
 
 매슬로의 이론은 AI가 인간의 복잡한 감정을 이해하는데 도움이 됩니다. 이 이론을 AI의 학습에 적용하면, AI는 인간의 감정을 정확하게 인식하고, 이를 바탕으로 우리와 더욱 효과적으로 상호작용할 수 있게 됩니다.
 
-그러나 이에 대한 의견은 분분합니다. 예를 들어, 인간 중심 AI에 대한 논문을 쓴 저명한 심리학자인 [Ben Shneiderman](https://medium.com/@benbendc)은 [Medium에 게재한 글](https://medium.com/human-centered-ai/on-ai-anthropomorphism-abff4cecc5ae)에서, AI가 사람처럼 가장하는 것이 문제라고 주장합니다. 반면에, AI와 인간 상호작용에 대한 연구를 수행하는 컴퓨터 과학자인 [Michael Muller](https://researcher.watson.ibm.com/researcher/view.php?person=us-mullerm)은 우리가 AI와 어떻게 상호작용해야 할지, 그리고 어떤 역할을 수행해야 할지에 대한 탐구가 필요하다고 주장합니다.
+심리학자인 [Ben Shneiderman](https://medium.com/@benbendc)은 AI가 '나'라는 주어를 사용하는 것과 관련해 AI가 사람처럼 가장하는 것이 문제라고 주장하였습니다. 그는 AI 매혹으로 인해 발생할 수 있는 문제에 대해 지적하였는데, 이는 많은 일반 사용자들이 '나' 인터페이스를 거부하거나 싫어하는 것으로 나타났습니다. 또한 대부분의 사용자들은 인터페이스가 '나'를 사용하든 '너'를 사용하든 눈치채지 못하지만, 일부 사용자들은 '나'라는 사용으로 오는 속임수를 강하게 싫어하고, 대신 '너' 디자인으로 자신을 통제하는 느낌을 강하게 선호하는 것으로 발견되었습니다. 이러한 선호도는 성별, 연령, 컴퓨터 사용 경험 등에 따라 다르며, 시간이 지남에 따라 바뀌고 있을 수도 있다는 것입니다.
+
+그 동안 [Michael Muller](https://researcher.watson.ibm.com/researcher/view.php?person=us-mullerm), 컴퓨터 과학자는 우리가 AI와 어떻게 상호작용해야 하는지, 그리고 어떤 역할을 수행해야 하는지에 대한 탐구가 필요하다고 주장하였습니다. 그는 주로 사람들이 전자 서비스를 기대하는 방식에 초점을 맞추어, 프로그램이 '나'를 사용하기 위한 경제적 가치에 대해 설명하였습니다. 예를 들어, [IGT Solutions](https://www.igtsolutions.com/services/cx-transformation/conversational-ai/)과 [SABA Hospitality](https://sabahospitality.com/)같은 회사들이 제공하는 항공 예약 및 호텔 예약에 대한 AI 챗봇 서비스는 '나'라는 주어를 사용하면서 상업적 성공을 거두었습니다.
 
 AI가 사람처럼 느끼고 생각하는 방식을 이해하는 것은 그것이 우리가 정말로 원하는 것인지에 대한 논의 과정에서 중요한 한 가지 단계입니만, AI가 인간처럼 느낄 수 있는 능력을 가지는 것이 과연 우리에게 무엇을 가져다 줄지에 대해서는 아직 확실하지 않습니다. 하지만 이런 AI의 발전은 무시할 수 없습니다. 결국, AI의 인간화는 그것이 우리의 일상과 어떻게 상호작용하게 될지를 결정하게 될 것입니다.
 
