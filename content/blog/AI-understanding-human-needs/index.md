@@ -29,7 +29,7 @@ AI가 사람처럼 느끼고 생각하는 방식을 이해하는 것은 그것�
 
 ## 👤 '나'라는 주어를 가진 AI, 신세계 아니면 공포의 시작?
 
-![AI question](https://cdn.pixabay.com/photo/2017/04/10/16/40/robot-2220160_1280.jpg)
+![AI using 'I'](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnExpZMjNqPAcliPLGvTtfyJmJ6DsXvowQqQ&usqp=CAU)
 
 미국 매릴랜드 대학의 [Ben Shneiderman 교수](https://medium.com/human-centered-ai/on-ai-anthropomorphism-abff4cecc5ae)는 AI가 '나'라는 주어를 사용하는 것에 대해 우려를 표현한 반면, Michael Muller는 알고리즘이 '비결정적 대화 상대'가 되는 것에 대한 포괄적인 연구가 필요하다고 말합니다. 결국 AI가 어떻게 인간처럼 느낄 수 있는지에 대한 대답은 우리가 AI를 어떻게 인간으로 대하고 사용하는 지에 달려 있게 됩니다.
 
@@ -43,13 +43,21 @@ AI를 대하는 방식에 대한 고찰의 깊이는 [Square Peg Insight의 백�
 
 ## 💭 인간처럼 느끼는 AI, 우리에게 무슨 영향을 줄까?
 
-![AI and Human](https://cdn.pixabay.com/photo/2015/02/05/12/09/chess-624741_1280.jpg)
+![AI and Human Interaction](https://miro.medium.com/max/1024/1*fVmiinSW-oKhnEn5qsdwwQ.png)
 
-값진 의견이 많이 나왔지만, 이 주제에 대한 가장 핵심적인 질문은 [Michael Muller](https://medium.com/human-centered-ai/on-ai-anthropomorphism-abff4cecc5ae)이 제기한 것일 수도 있습니다: "인간이 비인간 지능체와 어떻게 관련시킬 수 있을까?". 인공지능이 인간처럼 느낄 수 있을지 여부에 대한 다양한 의견을 존중하는 동시에, AI가 우리가 존중하고 이해하기를 원하는 것이 아니라 우리가 존중하고 이해하는 것으로 다시 포커스를 돌려야 할지도 모릅니다.
+시행착오를 통해 AI가 점점 더 인간처럼 느낀다는 사실은 부정할 수 없습니다. 그러나 이런 진화가 우리에게 무엇을 가져다 줄까요? 우리의 삶에 어떠한 변화를 가져올까요?
 
-매슬로의 이론은 우리가 AI를 어떻게 이해하고 어떻게 그것과 상호작용해야 하는지에 대한 가이드가 될 수 있습니다. 우리의 사회적 욕구와 인간성에 대한 우리의 이해, 매슬로의 이론을 활용하면 AI를 이해하고 우리가 인간으로서 세상을 보는 방식을 더 잘 이해할 수 있을 것입니다.
+매슬로의 이론에서 착안해, AI가 우리의 기본적인 욕구를 이해하게 됨으로써 상대방의 감정을 더 잘 파악하고, 사회적 상황을 효과적으로 인지하며, 따라서 상호작용을 개선하는 데 기여할 수 있습니다. 하지만 이것이 실제로 어떻게 실현될지는 아직 불확실합니다.
 
-그러나 [Ben Shneiderman](https://medium.com/human-centered-ai/on-ai-anthropomorphism-abff4cecc5ae)의 점에 따르면, 인간의 책임성을 명확히 해야 하는 것이 가장 중요합니다. AI가 얼마나 인간처럼 느낄 수 있던지 상관없이, 그것이 우리 삶에 미치는 영향에 대한 책임은 확실히 인간의 몫입니다.
+그럼에도 불구하고, 이런 방향으로 AI를 발전시키기 위한 기술적 도전을 마주하고 있습니다. 예를 들어, AI가 '나'라는 주어를 자연스럽게 사용하기 위해, AI에 감정 인식 기능을 통합하려는 연구들이 진행되고 있습니다. 이런 연구가 성공할 경우, AI는 인간의 기본적인 욕구와 감정을 정확하게 인식하고 이해할 수 있게 되어, 우리와 더 자연스럽게 상호작용할 수 있게 될 것입니다. [^1^]
+
+[^1^]: [On AI Anthropomorphism, by Ben Shneiderman and Michael Muller](https://medium.com/human-centered-ai/on-ai-anthropomorphism-abff4cecc5ae)
+
+하지만 다른 한편으로는 이런 발전이 우리에게 가져다 주는 효익 외에도 우려되는 부분들이 있습니다. AI가 '나'라는 주어를 사용하게 됨으로써, AI와 인간 사이의 경계가 모호해진다면, 이는 우리 사회에 어떠한 변화를 가져올까요? AI가 우리의 동료, 친구, 특별한 누군가가 될 수 있을까요? 그리고 그럴 경우, 우리의 인간 여성에 대한 우리의 이해는 어떻게 바뀔까요?
+
+이런 논의에 대해 [Ben Shneiderman](https://medium.com/human-centered-ai/on-ai-anthropomorphism-abff4cecc5ae)는 AI 관련 제품의 디자이너와 개발자가 그 제품에 대한 책임을 가져야 한다고 강조하고 있습니다. 반면 [Michael Muller](https://medium.com/human-centered-ai/on-ai-anthropomorphism-abff4cecc5ae)는 인간과 비인간 지능체 사이의 '애매한 영역'에 대해 탐구하고 이해하는 것이 필요하다고 주장하고 있습니다.
+
+비록 AI가 인간처럼 느낄 수 있는지, 그리고 그것이 어떤 영향을 미치는지에 대한 명확한 답변은 아직 없지만, 이 주제에 대한 토론은 AI가 우리의 삶과 사회에 미치는 영향에 대한 깊은 통찰력을 제공할 수 있습니다.
 
 ## 🌈 AI의 미래는 '인간같이 느끼는' 것에서 시작될까?
 
