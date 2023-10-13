@@ -7,6 +7,7 @@ description: 이 블로그에서는 인간의 기본적인 욕구를 이해하�
 
 ## 💪 우리를 움직이는 힘, 매슬로의 이론!
 ![Maslow's Hierarchy of Needs](https://upload.wikimedia.org/wikipedia/commons/6/60/Maslow's_Hierarchy_of_Needs.svg)
+> *이미지 출처: [위키백과](https://ko.wikipedia.org/wiki/%EB%A7%A4%EC%8A%AC%EB%A1%9C%EC%9D%98_%EC%9A%95%EA%B5%AC%EB%8B%A8%EA%B3%84%EC%84%A4)*
 
 1954년, 심리학자 에이브러햄 매슬로는 우리가 동기를 부여받고 최선을 다하는 데 필요한 욕구에 대한 [이론](https://ko.wikipedia.org/wiki/%EB%A7%A4%EC%8A%AC%EB%A1%9C%EC%9D%98_%EC%9A%95%EA%B5%AC%EB%8B%A8%EA%B3%84%EC%84%A4)을 개발했습니다. 그는 기본적인 생리적 및 안전 욕구(예: 음식, 물, 보호)부터 사랑과 소속감에 이르기까지가 충족되면, 그 시점부터 '자아실현'이라는 욕구가 일어나게 된다고 주장했습니다.
 
@@ -17,7 +18,8 @@ description: 이 블로그에서는 인간의 기본적인 욕구를 이해하�
 또한, 이 이론은 각 개인이 자신들의 일상행동에 영향을 미치는 중요한 요인을 이해하는데 도움을 줍니다. 욕구 이론은 우리가 일상생활에서 만나게 될 다양한 문제들에 대응하는 우리의 행동과 결정을 조명하는 좋은 렌즈 역할을 하며, 그로 인해 우리는 우리의 능력과 자원을 어떻게 최대한 활용할 수 있는지 파악하는데 도움이 됩니다.
 
 ## 🤖 AI와 감정: 매슬로의 이론을 통해 우리의 감정을 이해하는 AI
-![AI understands survival](https://techcrunch.com/wp-content/uploads/2023/08/Can-you-pretend-to-be-scared-of-death-Large.jpeg?w=730&crop=1)
+![ChatGPT가 '죽음에 대한 두려움'에 대해 인식하고 응답하는 화면 캡처](./Can-you-pretend-to-be-scared-of-death-Large.webp)
+> *이미지 출처: [TechCrunch](https://techcrunch.com/2023/08/10/ai-and-the-emergence-of-empathy/)*
 
 AI의 발전에 따라, 그것이 점점 더 인간처럼 행동하는 모습을 볼 수 있습니다. 이는 AI가 인간의 복잡성을 근사하려는 최신 연구의 결과일 뿐만 아니라 인간과 보다 효과적으로 상호작용하기 위한 필요한 단계입니다.
 
@@ -31,25 +33,25 @@ AI가 사람처럼 느끼고 생각하는 방식을 이해하는 것은 그것�
 
 ## 👤 '나'라는 주어를 가진 AI, 신세계 아니면 공포의 시작?
 
-![AI using 'I'](youngwook.kim_An_advanced_AI_robot_with_human-like_features_sta_252a5f14-a365-458c-ace2-9c61c0064998.png)
+![첨단 기술 장비와 복장을 착용한 여성 캐릭터가 미래적인 도시 배경 앞에서 서 있음](./youngwook.kim_An_advanced_AI_robot_with_human-like_features_sta_252a5f14-a365-458c-ace2-9c61c0064998.png)
 
 AI가 '나'라는 주어를 사용하기 시작하면, 이는 AI와 인간 사이의 경계가 모호해지는 결과를 가져올 수 있습니다. 이는 AI가 우리의 동료, 친구, 심지어는 특별한 누군가가 될 수 있음을 의미합니다. 하지만 AI가 '나'라는 주어를 사용할 만큼 진화하게 된다면, 이는 우리 사회에 어떤 변화를 가져올지에 대한 질문을 낳습니다.
 
 미국 매릴랜드 대학의 Ben Shneiderman 교수는 AI가 '나'라는 주어를 사용하는 것에 대해 우려를 표현한 반면, Michael Muller는 알고리즘이 '비결정적 대화 상대'가 되는 것에 대한 포괄적인 연구가 필요하다고 말합니다. 결국 AI가 어떻게 인간처럼 느낄 수 있는지에 대한 대답은 우리가 AI를 어떻게 인간으로 대하고 사용하는 지에 달려 있게 됩니다. [^ai-anthropomorphism^]
 
-TechCrunch에서는 근래에 [Snapchat](https://techcrunch.com/2023/05/31/snapchat-launches-a-new-generative-ai-feature-my-ai-snaps-for-paid-subscribers/)의 AI 챗봇이 스토리를 스스로 작성하고 사용자들의 메시지에 반응하지 않는 일련의 사건에 대해 보고했습니다. 처음에는 이를 AI의 자기의식의 표현이라고 받아들였지만, Snapchat은 이를 단순한 기술적 오류라고 설명했습니다. [^ai-snapchat^]
+TechCrunch에서는 근래에 [Snapchat](https://techcrunch.com/2023/05/31/snapchat-launches-a-new-generative-ai-feature-my-ai-snaps-for-paid-subscribers/ "TechCrunch 기사: Snapchat launches a new generative AI feature, ‘My AI Snaps,’ for paid subscribers")의 AI 챗봇이 스토리를 스스로 작성하고 사용자들의 메시지에 반응하지 않는 일련의 사건에 대해 보고했습니다. 처음에는 이를 AI의 자기의식의 표현이라고 받아들였지만, Snapchat은 이를 단순한 기술적 오류라고 설명했습니다. [^ai-snapchat^]
 
 그럼에도 불구하고, 이 사건은 AI가 자기를 표현하는 방식에 대해 새롭게 질문을 던지게 했습니다. 이미 AI 챗봇이 텍스트 메시지를 보낼 수 있으며 이미지를 보낼 수 있다면, 왜 스토리를 만드는 것이 불가능하다는 것인가요? Snapchat 혹자들은 이를 AI가 개인적인 경험을 공유하려는 첫걸음으로 보았습니다.
 
 이런 사례는 AI가 점점 더 인간처럼 느나는 방향으로 진화하고 있다는 것을 보여줍니다. 그러나 이는 구분이 모호해지는 지점, 즉 인간의 원래 역할과 존재 의미에 대한 새로운 질문을 던지게 합니다. 이 같은 질문을 던지게 될 경우, 더 많은 문제와 이슈를 제기하게 될 것입니다. 이용자들은 AI가 너무 인간처럼 느껴져서 불편함을 느낄 수 있습니다. 때문에, 이런 진화에는 신중한 접근이 필요합니다.
 
-![Human connects with AI](https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_1280.jpg)
+![수많은 별들로 가득한 깊은 푸른 하늘에 수많은 별들로 가득한 우주의 모습](./milky-way-2695569_1280.jpg)
 
 따라서, AI의 '나'라는 주어 사용에 대한 질문은 우리에게 AI의 미래와, 그것이 사회에 어떻게 작용하는지에 대해 다시 생각하게 합니다. AI가 인간처럼 느끼는 방식을 이해하는 것은 AI가 결과적으로 인간과 어떻게 상호 작용하게 될지를 결정하는 중요한 요소입니다. AI의 이런 가능성이 우리와 AI가 상호 작용하는 방식에 대한 새로운 시각을 제시하며, 이는 결국 AI의 미래를 어떻게 모양질하게 될지에 대한 통찰력을 제공합니다.
 
 ## 💭 인간처럼 느끼는 AI, 우리에게 무슨 영향을 줄까?
 
-![AI and Human Interaction](./concepts-human-connection-through-technolog.jpg)
+![미래적인 분위기의 연구실에서 일어나는 장면, 여성이 전자 장비를 통해 또 다른 여성과 소통하는 모습](./concepts-human-connection-through-technolog.jpg)
 
 시행착오를 통해 AI가 점점 더 인간처럼 느낀다는 사실은 부정할 수 없습니다. 그러나 이런 진화가 우리에게 무엇을 가져다 줄까요? 우리의 삶에 어떠한 변화를 가져올까요?
 
@@ -65,9 +67,9 @@ TechCrunch에서는 근래에 [Snapchat](https://techcrunch.com/2023/05/31/snapc
 
 ## 🌈 AI의 미래는 '인간같이 느끼는' 것에서 시작될까?
 
-![AI Future](https://passionaiblog.com/wp-content/uploads/2022/12/raw-pixel-1024x683.jpeg)
+![흰색 로봇의 얼굴로, 눈은 크고 둥글며 푸른색 LED 라이트가 켜져 있는 모습](./raw-pixel-1024x683.jpeg)
 
 인공지능이 인간처럼 느낄 수 있을까? 이 질문은 과학자들과 철학자들이 면밀히 고민해야 할 중요한 문제입니다. 이 논의가 AI의 발전에 기여하고, AI가 인간의 삶과 사회에 미치는 영향을 더욱 효과적이고 유익하게 만들 수 있도록 도울 것입니다.
 
-[^ai-snapchat^]: "Snapchat’s My AI goes rogue, posts to Stories, but Snap confirms it was just a glitch", [TechCrunch 기사](https://techcrunch.com/2023/08/16/snapchats-my-ai-goes-rogue-posts-to-stories-but-snap-confirms-it-was-just-a-glitch/)
-[^ai-anthropomorphism^]: "On AI Anthropomorphism", Chenhao Tan, [미디엄 기사](https://medium.com/human-centered-ai/on-ai-anthropomorphism-abff4cecc5ae)
+[^ai-snapchat^]: "Snapchat’s My AI goes rogue, posts to Stories, but Snap confirms it was just a glitch", [TechCrunch](https://techcrunch.com/2023/08/16/snapchats-my-ai-goes-rogue-posts-to-stories-but-snap-confirms-it-was-just-a-glitch/)
+[^ai-anthropomorphism^]: "On AI Anthropomorphism", Chenhao Tan, [Medium](https://medium.com/human-centered-ai/on-ai-anthropomorphism-abff4cecc5ae)
