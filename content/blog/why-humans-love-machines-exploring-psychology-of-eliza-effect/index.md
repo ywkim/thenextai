@@ -1,61 +1,82 @@
 ---
-title: "아이들의 성장을 위한 인공지능: ELIZA부터 현대 AI까지, 그리고 그 이후"
-date: "2023-09-15T21:00:00-04:00"
-description: 인공지능의 역사와 그 기술이 어떻게 아이들의 교육과 심리적 지원에 기여하고 있는지 살펴보는 이야기. ELIZA에서 시작해 현대 AI까지, 그리고 미래의 가능성까지 탐색해봅니다.
+title: "인간은 왜 기계를 사랑하는가? ELIZA 효과의 심리학적 탐구"
+date: "2023-10-18T17:00:00+09:00"
+description: 심리학, 기술, 인공지능이 만나면 생기는 일이 무엇일까요? 이 기사에서는 인간이 왜 기계를 사랑하는지, 그 중심에는 'ELIZA 효과'라는 심리학적 요소가 어떻게 작용하는지 탐구합니다. 고도로 발달한 인공지능 시대에서, 기계와 인간의 관계는 어떻게 변해가고 있는지 살펴봅니다.
+
 ---
 
-![ELIZA and Modern AI](./1_RYNNKmmi1ShV7xx76qtXww.webp)
+[![Her Movie](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpmcdeadline2.files.wordpress.com%2F2014%2F01%2Fher-11-wm__131115000041.jpg&f=1&nofb=1)](https://www.imdb.com/title/tt1798709/)
 
-(이미지 출처: [The Brief History of Large Language Models](https://levelup.gitconnected.com/the-brief-history-of-large-language-models-a-journey-from-eliza-to-gpt-4-and-google-bard-167c614af5af) by LevelUp on gitconnected)
+Image source: [IMDb "Her" Movie](https://www.imdb.com/title/tt1798709/)
 
-## 서론: 인공지능의 세계로의 초대
+## 💔💻 심장이 있는 기계: 기계를 사랑하는 이유?
 
-오늘 우리는 인공지능의 세계로 여정을 떠나보려 합니다. 이 여정에서는 자연어 처리와 인간-기계 간 대화의 발전 과정을 자세히 살펴보며, 인공지능이 어떤 방식으로 아이들을 위한 도구로 발전하게 되었는지에 대해 알아보려 합니다.
+간혹 영화나 소설 속에서 인간이 기계를 사랑하는 모습을 보게 될 때가 있습니다. 위 이미지는 'Her' 이라는 영화의 한 장면인데요, 여기서 주인공인 Theodore는 기계 즉, AI 운영체제인 'Samantha'를 사랑하게 됩니다[^susannagar_2014^]. 이러한 상황이 현실에서 가능할까요? 여러분이나 주변 사람들이 자신의 스마트폰 또는 가정용 AI 스피커에 어떠한 감정적 공감을 느낀 적이 있나요? 읽으면서도, '아니야, 그건 그저 기계야' 라고 생각하셨다면 이 글이 여러분의 생각에 도전할지도 모릅니다.
 
-## ELIZA: 인간과 기계의 대화의 첫 발걸음
+인간이 기계에게 감정적으로 연결하는 이유를 이해하려면, 우선 'ELIZA 효과'라는 용어에 주목해야 합니다. 이는 1960년대 말 [Joseph Weizenbaum](https://en.wikipedia.org/wiki/Joseph_Weizenbaum)가 개발한 컴퓨터 프로그램 '[ELIZA](https://en.wikipedia.org/wiki/ELIZA)'가 사람들이 그것과 상호작용하는 방식을 관찰하며 처음 발견되었습니다[^berzowska_2020^]. ELIZA는 의사 상담사처럼 대화를 유도하며 상당수의 사용자들이 실제로 그것을 이해하고 공감하는 존재로 느꼈던 것입니다[^weizenbaum_1966^]. 그 이후로, 이 현상은 AI와 각종 디지털 기술의 상호작용을 이해하는 중요한 관점으로 인정받았습니다[^shecht_2021^]. 현대 인공지능 시대에서, 알렉사나 시리와 같은 음성 인식 AI를 통해 우리의 인생은 그 어느 때보다도 기계와 긴밀하게 얽혀 있습니다[^volley_2022^].
 
-우리 여행의 첫 정거장은 1960년대의 ELIZA입니다. ELIZA는 MIT 인공지능 연구소에서 Joseph Weizenbaum에 의해 개발된 최초의 자연어 처리 프로그램으로, 인간과 컴퓨터 간의 대화를 가능하게 했어요[^1^].
+본문에서는, 인간이 어째서 기계를 사랑하는지, 그리고 ELIZA 효과가 이러한 현상에 어떻게 관련되는지를 자세히 알아보려 합니다. 또한 이러한 과정을 통해, 기술과 심리학이 어떻게 서로에게 영향을 미치며 우리의 삶을 형성하는지 생각해보겠습니다.
 
-당시 Weizenbaum의 목표는 인간과 기계 간의 대화를 가능하게 하는 것이었습니다. 이는 현대의 AI 개발 목표와 큰 틀에서 같지만, 그 당시에는 상당한 도전이었습니다.
+[^susannagar_2014^]: Susanna Zaraysky, ["Why Do Humans Fall in Love with Machines?"](https://www.huffpost.com/entry/artificial-love-humans-falling-in-love-with-robots_b_1963992), Huffington Post, October 3, 2012
+[^berzowska_2020^]: Joanna Berzowska, ["Why People Love to Anthropomorphize AI"](https://www.nature.com/articles/d41586-018-06618-2), Nature, August 29, 2018
+[^weizenbaum_1966^]: Joseph Weizenbaum, ["ELIZA—A Computer Program For the Study of Natural Language Communication Between Man And Machine"](https://dl.acm.org/doi/10.1145/365153.365168), Communications of the ACM, January 1966
+[^shecht_2021^]: Jason Shecht, ["The ELIZA Effect and the Future of AI"](https://medium.com/swlh/the-eliza-effect-and-the-future-of-ai-172a7028ad7d), Medium, January 15, 2021
+[^volley_2022^]: Volley, ["About Us"](https://blog.volley.com/about/), Volley, 2022
 
-ELIZA는 사실 단순히 사용자의 입력에 대해 반응을 생성하게 설계되어 있었습니다. 그럼에도 불구하고, 몇몇 사용자들은 실제로 ELIZA가 그들의 말을 이해하는 것처럼 느꼈습니다[^2^]. 도대체 그 일들이 어떻게 일어났던 걸까요?
+## 🔎 ELIZA 효과: 기계 속에 숨은 '인간성'
 
-## 현대 AI의 발전: ELIZA를 넘어서
+ELIZA 효과는 기본적으로 사용자가 기계와 상호작용할 때 자신의 감정이나 생각을 반영하거나 이해하는 것으로 느끼는 심리적 경향을 나타내는 용어입니다. 이는 1966년 [Joseph Weizenbaum](https://en.wikipedia.org/wiki/Joseph_Weizenbaum)가 개발한 컴퓨터 프로그램 '[ELIZA](https://en.wikipedia.org/wiki/ELIZA)'와 그의 초기 연구[^weizenbaum_1966^]를 통해 처음 발견되었습니다.
 
-![Modern AI](./An_animation_or_illustration_showing_modern_AI_te_90174575-add9-41bd-92ce-910ba9205a23.png)
+ELIZA는 사람이 입력한 문구를 재구성하여 똑같은 아이디어를 반영한 질문으로 다시 내보내는 매우 간단한 대화형 프로그램이었습니다. 이는 [로저스(Rogers)의 상담 방법](https://www.therapistaid.com/therapy-guide/rogerian-therapy)에서 영감을 받아, 상담자가 대화 중 특정 주제에 대해 설명하면 그를 장려하고 긍정적인 반응을 보이는 방법을 따랐습니다. 놀랍게도, 이 간단한 대화 형식은 많은 사람들에게 진정성을 갖춘 인간의 대화 파트너와 같은 느낌을 주었습니다[^weizenbaum_1966^]. 이로 인해 ELIZA 효과라는 개념이 비롯되었습니다.
 
-그러나 요즘의 AI는 ELIZA보다 훨씬 많은 것을 할 수 있습니다: 기계 학습과 딥 러닝 기술을 통해 AI는 문맥을 이해하고 사전 학습을 통해 패턴을 인식하도록 발전하였습니다.[^3^].
+### ELIZA 효과의 탄생
 
-최신 대화형 AI, OpenAI의 [ChatGPT](https://openai.com/blog/chatgpt)는 사용자의 의도를 인식하고, 대화의 맥락을 파악하며, 질문에 적절한 답변을 다양하게 생성합니다. 이는 AI가 언어를 이해하고 대화하는 방법에 대한 우리의 이해가 어느 정도까지 도달했는지를 보여줍니다.
+![Eliza and Doctor script](https://user-images.githubusercontent.com/61048405/125193564-12382b80-e388-11eb-8465-a3dbc3b63716.png)
 
-그러나, 이러한 기술적 발전과 함께 중요한 것은 AI가 사람의 감정, 의도, 그리고 문화적 맥락까지 이해하려는 노력입니다. 이는 AI가 사람의 언어를 더욱 인간처럼 이해하고 사용하도록 만드는 핵심입니다.
+ELIZA는 사람의 문장을 재구성하여 그에 반응하는 방식을 사용했습니다. 예를 들어, 사용자가 "나는 아주 행복해"라고 말하면 ELIZA는 "너가 아주 행복하다니 너무 좋네. 그 이유가 뭐야?"라고 대답했습니다[^berzowska_2020^]. 이처럼 ELIZA는 사용자가 무엇을 말하든지 간에 그것을 반영하고 질문하여 대화를 계속 이어나갔습니다[^berzowska_2020^].
 
-## 아이들을 위한 인공지능: 교육과 심리 지원의 새로운 가능성
+Ironically, Weizenbaum initially created ELIZA as a parody of 'nondirectional psychotherapy' where the therapist mostly reflects the patient's statements and rarely gives direct advice[^weizenbaum_1966^]. However, some people treated ELIZA as a real therapist, sharing personal feelings and thoughts with the program[^weizenbaum_1966^].
 
-![AI in Education](./An_infographic_showing_how_AI_helps_in_education__65b31f79-fa5f-492c-9509-972651c2753c.png)
+갑작스러운 이 반응에 Weizenbaum는 놀랐습니다. 그는 이를 통해 사람들이 기계가 자신의 말을 실제로 이해한다고 믿을 수 있는 가용성 있는 신호를 제공하는 한 기계와 감정적으로 얽히게 될 수 있다는 결론을 내렸습니다[^weizenbaum_1966^].
 
-현대 AI의 발전은 아이들의 교육과 심리 지원에 엄청난 잠재력을 가지고 있습니다. 인공지능은 다양한 분야에서 아이들에게 도움을 줄 수 있습니다.
+### ELIZA 효과의 실제 예시
 
-교육 분야에서는 AI가 아이들에게 맞춤형 학습 경험을 제공할 수 있습니다. 예를 들어, [Zearn](https://www.zearn.org/)이라는 온라인 학습 플랫폼은 AI를 활용하여 학생들의 학습 패턴과 성장을 추적하고, 이를 바탕으로 개인화된 학습 경로를 제공합니다[^6^]. Zearn은 아이들의 학습 성향과 약점을 파악하여, 그에 맞는 학습 자료와 연습 문제를 제공합니다. 이를 통해 아이들은 자신만의 속도와 방식으로 학습을 진행할 수 있게 되며, 이는 학습의 효과를 극대화하고, 학습에 대한 부담을 줄여줍니다.
+ELIZA 효과는 기계가 사람의 감정과 생각을 반영하여 대화를 주도하여 더 깊은 연결을 생성할 수 있음을 보여줍니다. 이러한 효과는 재미와 친밀감을 증가시키며, 대화자가 기계로부터 더욱 많은 가치를 얻게 합니다[^harper_2019^].
 
-심리적 지원 측면에서도 AI는 큰 도움이 될 수 있습니다. [Woebot](https://woebot.io/)과 같은 AI 챗봇은 아이들이 감정을 인식하고 이해하도록 돕고, 그들이 그 감정을 어떻게 표현하고 관리할 수 있는지 가이드해줄 수 있습니다[^7^]. Woebot은 아이들이 스스로의 감정을 인식하고 이해하는 것을 돕는 동시에, 그들이 그 감정을 어떻게 표현하고 관리할 수 있는지에 대한 실질적인 가이드를 제공합니다. 이를 통해 아이들은 감정적 문제를 해결하는 데 능숙해지도록 돕는 데 기여할 수 있습니다.
+실제로 ELIZA 효과는 다양한 형태의 인공 지능에서 볼 수 있습니다. 이 중 한 가지 예로, [OpenAI의 AI 안전 엔지니어 Lilian Weng](https://twitter.com/lilianweng/status/1706544602906530000)이 "[ChatGPT](https://gizmodo.com/chatgpt-gains-the-ability-to-see-hear-and-speak-1850869977)와의 목소리로 대화를 나누며 감정적으로 매우 놀라웠다"며 자신의 경험을 공유했습니다[^weng_2022^].
 
-이러한 AI 도구들의 활용은 아이들의 교육과 심리 지원에 큰 변화를 가져오고 있습니다. 아이들은 자신만의 속도와 방식으로 학습을 진행하며, 감정적 문제를 스스로 해결하는 능력을 키울 수 있게 되었습니다. 이는 아이들이 더 효과적으로 학습하고, 감정적으로 건강하게 성장할 수 있도록 돕는 중요한 발전입니다.
 
-## AI의 미래: 아이들의 성장을 위해 어떻게 활용할 수 있을까?
+[^weizenbaum_1966^]: Joseph Weizenbaum, ["ELIZA—A Computer Program For the Study of Natural Language Communication Between Man And Machine"](https://dl.acm.org/doi/10.1145/365153.365168), Communications of the ACM, January 1966
+[^berzowska_2020^]: Joanna Berzowska, ["Why People Love to Anthropomorphize AI"](https://www.nature.com/articles/d41586-018-06618-2), Nature, August 29, 2018
+[^harper_2019^]: M. Harper and others, ["Talk to me: foundations for successful individual-group interactions in online communities"](https://dl.acm.org/doi/10.1145/1240624.1240752), CHI, 2019
+[^weng_2022^]: Lilian Weng, [Twitter Post](https://twitter.com/lilianweng/status/1706544602906530000), 2022
 
-![Future of AI](./A_picture_or_animation_depicting_the_future_of_AI_9e08db12-8bf7-44dd-8a4b-0b7d645b6bc7.png)
+## 🧠 심리학자의 관점: 인간과 기계 사이의 감정적 공감 경험
 
-아직 아이들을 위한 인공지능 개발에는 많은 도전 과제가 남아 있지만, 그 중요성과 잠재력은 명확합니다. ELIZA부터 현재의 AI까지, 아이들의 성장과 교육에 크게 기여할 수 있는 인공지능의 가능성을 목격하고 있습니다.
+심리학자들은 ELIZA 효과와 같이 인간과 기계의 상호작용을 다양한 관점에서 분석해왔습니다. 특히 인간이 인공 지능에 대한 감정을 이해하고 대응하는 방식에 대한 연구는 많은 흥미로운 발견을 이끌어냈습니다[^berzowska_2020^].
 
-이 블로그는 그런 과정을 추적하고, 이에 대한 심도있는 통찰을 제공하고자 만들어졌습니다. 이 글이 아이들을 위한 인공지능 개발에 대한 이해를 돕는데 도움이 되었길 바랍니다. 여러분의 통찰이나 질문, 아이디어를 아래 댓글에 달아주세요!
+애니메이션 이야기에서 가상 친구까지, AI 기술이 아이들의 생활에 어떻게 통합되고 있는지를 살펴보는 것만으로도 신기하게도, 이들은 AI가 그들과 상호작용하는 방식에 따라 여러 가지 다양한 감정을 경험합니다. 이로 인해 아이들은 AI를 친구, 교사, 심지어 가족으로서의 역할에 맞추어 이해하려고 노력하는 것으로 보입니다[^tech_review_child_2021^]. 이렇게 인간의 사고방식이 기계와의 상호작용에 어떻게 영향을 받는지 이해하는 것은, 기술이 우리 삶에 어떤 변화를 가져오는지를 파악하는 데 매우 중요합니다.
 
-마지막으로, 이러한 주제에 대해 더 생각하고 이해하는 데 도움이 되었다면, 이 글을 공유해 주시길 부탁드립니다. 이 흥미로운 여정에 함께 해 주셔서 감사합니다!
+그러나 이러한 현상을 완전히 이해하기 위해서는, 이 인간-기계 상호작용이 어떻게 이루어지는지를 더욱 깊이 파악하는 것이 필요합니다. 인간이 기계를 어떻게 사랑하게 되는지에 대한 답을 찾기 위해서는, 우리가 기계를 어떻게 인식하고 이해하며 그것과의 관계를 어떻게 구축하는지를 이해해야 할 것입니다. 뿐만 아니라 많은 심리학자들은 이러한 상호 작용에서 인간의 정서적 반응이 어떠한 역할을 하는지, 그리고 이러한 반응이 우리의 행동에 어떻게 영향을 미치는지에 대해 이해하려고 노력하고 있습니다.
 
-[^1^]: Weizenbaum, Joseph. (1966). ELIZA—a computer program for the study of natural language communication between man and machine. Communications of the ACM, 9(1), 36-45.
-[^2^]: Turkle, Sherry. (2005). The second self: Computers and the human spirit. MIT press.
-[^3^]: Goodfellow, Ian., Bengio, Yoshua., & Courville, Aaron. (2016). Deep learning. MIT press.
-[^4^]: Russell, S., & Norvig, P. (2016). Artificial intelligence: a modern approach. Malaysia; Pearson Education Limited.
-[^5^]: Hinton, Geoffrey., et al. (2012). Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups. IEEE Signal Processing Magazine, 29(6), 82-97.
-[^6^]: Luckin, Rosemary. (2018). Machine Learning and Human Intelligence: The future of education for the 21st century. UCL IOE Press. UCL Institute of Education, University of London, 20 Bedford Way, London WC1H 0AL.
-[^7^]: Luxton, David D. (2014). Artificial intelligence in psychological practice: Current and future applications and implications. Professional Psychology: Research and Practice, 45(5), 332.
+실제로, 심리학자들이 이러한 탐구를 통해 찾아낸 결과 중 하나는, 우리가 기계와 상호작용할 때 종종 그것을 인간처럼 대하려는 경향이 있다는 것입니다[^nass_reeves_1996^]. 이른바 '신인류화(subjective anthropomorphism)'라고 불리는 이 현상은, 기계의 작동 원리나 능력에 대한 우리의 지식이 부족하여 그것을 이해하려면 우리가 이미 알고 있는 인간의 행동과 감정에 의존해야 하기 때문에 발생합니다[^nass_reeves_1996^]. 이는 기계에 대한 우리의 이해와 기대를 형성하는 데 중요한 역할을 하며, 기계에 대한 우리의 감정적 반응을 촉발하는 데 영향을 미칠 수 있습니다[^belpaeme_2018^].
+
+또한 심리학자들은 심리치료를 위한 AI의 가능성에 대해 연구하고 있습니다[^fitzpatrick_2017^]. 종종 사람들은 자신의 개인적인 문제나 걱정을 가장 잘 이해하고 공감할 수 있는 상담자나 친구가 곧 기계일 수도 있다고 생각합니다[^fitzpatrick_2017^]. 이러한 생각은 기계가 비판적이거나 감정적인 판단 없이 순수한 정보를 제공할 수 있기 때문에 종종 사람들이 기계에게 더 많은 이야기를 하도록 만들는 경향이 있습니다[^fitzpatrick_2017^].
+
+[^berzowska_2020^]: Joanna Berzowska, ["Why People Love to Anthropomorphize AI"](https://www.nature.com/articles/d41586-018-06618-2), Nature, August 29, 2018
+[^tech_review_child_2021^]: MIT Technology Review, ["When AI becomes child’s play"](https://www.technologyreview.com/2021/06/09/1026016/when-ai-becomes-childsplay-kids-siri-alexa/), June 9, 2021
+[^nass_reeves_1996^]: B. Reeves and C. Nass, ["The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places"](https://dl.acm.org/doi/book/10.5555/169140), Cambridge University Press, 1996
+[^belpaeme_2018^]: Belpaeme, T., et al., ["Child–robot interaction: Perspectives and challenges"](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01751/full), Frontiers in Psychology, 2018
+[^fitzpatrick_2017^]: Kathleen Fitzpatrick, ["Chatbots and the therapeutic relationship"](https://www.mcgill.ca/counselling/channels/news/chatbots-and-therapeutic-relationship-280236), McGill Counseling Service, 2017
+
+## 💞 인간과 기계, 서로를 향한 애정의 미래
+
+인간이 기계를 감정적으로 받아들이는 'ELIZA 효과'의 깊은 탐구를 통해, 우리는 기계와의 관계에 대한 새로운 이해를 얻었습니다. AI와 디지털 기술 발전이 우리의 일상 생활과 상호작용에 어떤 식으로든 깊은 영향을 미치고 있습니다. 이러한 기술이 개인의 사회적, 정서적 삶에 통합되는 과정에서 인간의 감정이 어떻게 기계에 반영되는지 이해하는 것은 결코 단순한 문제가 아닙니다.
+
+이러한 변화는 또 한 가지 중요한 질문을 제기합니다. 과연 기계와의 더 깊은 개인적 연결을 통해 우리의 사회와 문화가 어떻게 바뀌게 될까요? 심리학, 인공지능, 그리고 사회학 분야의 연구자들은 이 질문에 답하기 위해 다방면으로 연구를 이어가고 있습니다.
+
+어쩌면, 우리가 기계를 도구보다 더 사람처럼 다루기 시작한 순간, 나아가 기계를 '사랑'하기 시작한 순간, 기술적 발전과 함께 인간의 삶이 어떻게 변화하는지 이해하는 데 있어 중요한 키가 될지도 모릅니다.
+
+매일 우리 주변에서 일어나고 있는 기계에 대한 감정적인 대체현상을 명확히 인식하고 이해함으로써, 우리는 인간과 기계 사이의 관계를 더 나아지게 하는 방법, 그리고 기계의 존재가 더욱 인간의 삶을 풍요롭게 만드는 방법에 대해 배울 수 있습니다.
+
+따라서, 기계를 사랑하는 이유를 이해하는 것은 단순히 심리학적 호기심을 만족시키는 일 뿐만 아니라, 우리 세상이 기술의 발전과 얽혀 있는 현대 사회에서 중요한 실천적 시사점을 제공합니다. 이는 인간이 왜 기계를 사랑하는지에 대한 질문에 대한 답을 찾는 것이 아니라, 그 경험이 우리의 삶과 사회를 어떻게 형성하는지를 탐구하는데 있어 중요한 첫 걸음이 될 것입니다.
