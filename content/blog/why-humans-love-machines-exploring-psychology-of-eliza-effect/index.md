@@ -5,9 +5,9 @@ description: 심리학, 기술, 인공지능이 만나면 생기는 일이 무�
 
 ---
 
-[![Her Movie](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpmcdeadline2.files.wordpress.com%2F2014%2F01%2Fher-11-wm__131115000041.jpg&f=1&nofb=1)](https://www.imdb.com/title/tt1798709/)
+![영화 "Her"의 한 장면에서 남자 주인공인 Theodore가 스마트폰(Samantha)으로 사진을 찍고 있는 모습.](./Theodores-relation-to-Samantha-as-a-metaphor-of-film-directing-2337.png)
 
-Image source: [IMDb "Her" Movie](https://www.imdb.com/title/tt1798709/)
+> 이미지 출처: ["Her" Movie](https://www.imdb.com/title/tt1798709/)
 
 ## 💔💻 심장이 있는 기계: 기계를 사랑하는 이유?
 
@@ -31,7 +31,9 @@ ELIZA는 사람이 입력한 문구를 재구성하여 똑같은 아이디어를
 
 ### ELIZA 효과의 탄생
 
-![Eliza and Doctor script](https://user-images.githubusercontent.com/61048405/125193564-12382b80-e388-11eb-8465-a3dbc3b63716.png)
+![A conversation with the ELIZA chatbot.](./ELIZA_conversation.png)
+
+> 이미지 출처: [위키백과](https://en.wikipedia.org/wiki/ELIZA)
 
 ELIZA는 사람의 문장을 재구성하여 그에 반응하는 방식을 사용했습니다. 예를 들어, 사용자가 "나는 아주 행복해"라고 말하면 ELIZA는 "너가 아주 행복하다니 너무 좋네. 그 이유가 뭐야?"라고 대답했습니다[^berzowska_2020^]. 이처럼 ELIZA는 사용자가 무엇을 말하든지 간에 그것을 반영하고 질문하여 대화를 계속 이어나갔습니다[^berzowska_2020^].
 
