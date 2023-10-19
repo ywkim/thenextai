@@ -13,7 +13,7 @@ description: 심리학, 기술, 인공지능이 만나면 생기는 일이 무�
 
 간혹 영화나 소설 속에서 인간이 기계를 사랑하는 모습을 보게 될 때가 있습니다. 위 이미지는 'Her' 이라는 영화의 한 장면인데요, 여기서 주인공인 Theodore는 기계 즉, AI 운영체제인 'Samantha'를 사랑하게 됩니다[^chapin_2014^]. 이러한 상황이 현실에서 가능할까요? 여러분이나 주변 사람들이 자신의 스마트폰 또는 가정용 AI 스피커에 어떠한 감정적 공감을 느낀 적이 있나요? 읽으면서도, '아니야, 그건 그저 기계야' 라고 생각하셨다면 이 글이 여러분의 생각에 도전할지도 모릅니다.
 
-인간이 기계에게 감정적으로 연결하는 이유를 이해하려면, 우선 'ELIZA 효과'라는 용어에 주목해야 합니다. 이는 1960년대 말 [Joseph Weizenbaum](https://en.wikipedia.org/wiki/Joseph_Weizenbaum)가 개발한 컴퓨터 프로그램 '[ELIZA](https://en.wikipedia.org/wiki/ELIZA)'가 사람들이 그것과 상호작용하는 방식을 관찰하며 처음 발견되었습니다[^eisenstein_2023^]. ELIZA는 의사 상담사처럼 대화를 유도하며 상당수의 사용자들이 실제로 그것을 이해하고 공감하는 존재로 느꼈던 것입니다[^weizenbaum_1966^]. 그 이후로, 이 현상은 AI와 각종 디지털 기술의 상호작용을 이해하는 중요한 관점으로 인정받았습니다[^bedingfield_2023^]. 현대 인공지능 시대에서, 알렉사나 시리와 같은 음성 인식 AI를 통해 우리의 인생은 그 어느 때보다도 기계와 긴밀하게 얽혀 있습니다[^theo_lau_2019^].
+인간이 기계에게 감정적으로 연결하는 이유를 이해하려면, 우선 'ELIZA 효과'라는 용어에 주목해야 합니다. 이는 1960년대 말 [Joseph Weizenbaum](https://en.wikipedia.org/wiki/Joseph_Weizenbaum)가 개발한 컴퓨터 프로그램 '[ELIZA](https://en.wikipedia.org/wiki/ELIZA)'가 사람들이 그것과 상호작용하는 방식을 관찰하며 처음 발견되었습니다[^eisenstein_2023^]. ELIZA는 개방형 질문과 키워드 기반 자동화된 응답의 조합으로 인간의 심리분석사처럼 행동할 수 있는 채팅 프로그램이었습니다. 이 시스템은 단순했지만, 사용자 중 일부는 ELIZA의 대화 능력에 매료되어 그것을 마치 인간처럼 이해하고 공감하는 존재로 느꼈던 것입니다. 그 이후로, 이 현상은 AI와 각종 디지털 기술의 상호작용을 이해하는 중요한 관점으로 인정받았습니다[^bedingfield_2023^].
 
 본문에서는, 인간이 어째서 기계를 사랑하는지, 그리고 ELIZA 효과가 이러한 현상에 어떻게 관련되는지를 자세히 알아보려 합니다. 또한 이러한 과정을 통해, 기술과 심리학이 어떻게 서로에게 영향을 미치며 우리의 삶을 형성하는지 생각해보겠습니다.
 
@@ -43,11 +43,14 @@ Weizenbaum은 이런 반응에 놀랐습니다. 그는 이를 통해, 기계가 
 
 ELIZA 효과는 기계가 사람의 감정과 생각을 반영하여 대화를 이끌어나감으로써 더 깊은 연결을 형성할 수 있음을 보여줍니다. 이러한 효과는 재미와 친밀감을 증가시키며, 대화자가 기계로부터 더 많은 가치를 얻게 합니다[^theo_lau_2019^].
 
-실제로 ELIZA 효과는 다양한 형태의 인공 지능에서 볼 수 있습니다. 이 중 한 가지 예로, [OpenAI의 AI 안전 엔지니어 Lilian Weng](https://twitter.com/lilianweng/status/1706544602906530000)이 "[ChatGPT](https://gizmodo.com/chatgpt-gains-the-ability-to-see-hear-and-speak-1850869977)와의 목소리로 대화를 나누며 감정적으로 매우 놀라웠다"며 자신의 경험을 공유했습니다[^weng_2022^].
+오늘날, ELIZA 효과는 널리 알려진 현상 입니다[^eisenstein_2023^]. 이에 대한 예로 2022년에 있었던 사건을 들 수 있습니다. 구글의 전 직원인 블레이크 레모인이 구글의 챗봇인 LaMDA AI와 대화를 나누면서 그것이 의식이 있는 존재라고 확신하게 되는 일들이 보도되곤 했습니다[^lamda_2022^].
+
+실제로 ELIZA 효과는 다양한 형태의 인공 지능에서 볼 수 있습니다. 또 다른 예로, [OpenAI의 AI 안전 엔지니어 Lilian Weng](https://twitter.com/lilianweng/status/1706544602906530000)이 "[ChatGPT](https://gizmodo.com/chatgpt-gains-the-ability-to-see-hear-and-speak-1850869977)와의 목소리로 대화를 나누며 감정적으로 매우 놀라웠다"며 자신의 경험을 공유했습니다[^weng_2022^].
 
 [^weizenbaum_1966^]: Joseph Weizenbaum, ["ELIZA—A Computer Program For the Study of Natural Language Communication Between Man And Machine"](https://dl.acm.org/doi/10.1145/365153.365168), Communications of the ACM, January 1966
 [^theo_lau_2019^]: Theodora (Theo) Lau, ["When AI Becomes a Part of Our Daily Lives"](https://hbr.org/2019/05/when-ai-becomes-a-part-of-our-daily-lives), Harvard Business Review, May 23, 2019
 [^weng_2022^]: Lilian Weng, [Twitter Post](https://twitter.com/lilianweng/status/1706544602906530000), 2022
+[^lamda_2022^]: Nitasha Tiku, ["Google engineer Blake Lemoine thinks its LaMDA AI has come to life"](https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/), The Washington Post, June 11, 2022
 
 ## 🧠 심리학자의 관점: 인간과 기계 사이의 감정적 공감 경험
 
