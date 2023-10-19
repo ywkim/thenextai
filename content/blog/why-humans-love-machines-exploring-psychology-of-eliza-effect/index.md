@@ -13,14 +13,13 @@ description: 심리학, 기술, 인공지능이 만나면 생기는 일이 무�
 
 간혹 영화나 소설 속에서 인간이 기계를 사랑하는 모습을 보게 될 때가 있습니다. 위 이미지는 'Her' 이라는 영화의 한 장면인데요, 여기서 주인공인 Theodore는 기계 즉, AI 운영체제인 'Samantha'를 사랑하게 됩니다[^chapin_2014^]. 이러한 상황이 현실에서 가능할까요? 여러분이나 주변 사람들이 자신의 스마트폰 또는 가정용 AI 스피커에 어떠한 감정적 공감을 느낀 적이 있나요? 읽으면서도, '아니야, 그건 그저 기계야' 라고 생각하셨다면 이 글이 여러분의 생각에 도전할지도 모릅니다.
 
-인간이 기계에게 감정적으로 연결하는 이유를 이해하려면, 우선 'ELIZA 효과'라는 용어에 주목해야 합니다. 이는 1960년대 말 [Joseph Weizenbaum](https://en.wikipedia.org/wiki/Joseph_Weizenbaum)가 개발한 컴퓨터 프로그램 '[ELIZA](https://en.wikipedia.org/wiki/ELIZA)'가 사람들이 그것과 상호작용하는 방식을 관찰하며 처음 발견되었습니다[^eisenstein_2023^]. ELIZA는 의사 상담사처럼 대화를 유도하며 상당수의 사용자들이 실제로 그것을 이해하고 공감하는 존재로 느꼈던 것입니다[^weizenbaum_1966^]. 그 이후로, 이 현상은 AI와 각종 디지털 기술의 상호작용을 이해하는 중요한 관점으로 인정받았습니다[^bedingfield_2023^]. 현대 인공지능 시대에서, 알렉사나 시리와 같은 음성 인식 AI를 통해 우리의 인생은 그 어느 때보다도 기계와 긴밀하게 얽혀 있습니다[^volley_2022^].
+인간이 기계에게 감정적으로 연결하는 이유를 이해하려면, 우선 'ELIZA 효과'라는 용어에 주목해야 합니다. 이는 1960년대 말 [Joseph Weizenbaum](https://en.wikipedia.org/wiki/Joseph_Weizenbaum)가 개발한 컴퓨터 프로그램 '[ELIZA](https://en.wikipedia.org/wiki/ELIZA)'가 사람들이 그것과 상호작용하는 방식을 관찰하며 처음 발견되었습니다[^eisenstein_2023^]. ELIZA는 의사 상담사처럼 대화를 유도하며 상당수의 사용자들이 실제로 그것을 이해하고 공감하는 존재로 느꼈던 것입니다[^weizenbaum_1966^]. 그 이후로, 이 현상은 AI와 각종 디지털 기술의 상호작용을 이해하는 중요한 관점으로 인정받았습니다[^bedingfield_2023^]. 현대 인공지능 시대에서, 알렉사나 시리와 같은 음성 인식 AI를 통해 우리의 인생은 그 어느 때보다도 기계와 긴밀하게 얽혀 있습니다[^theo_lau_2019^].
 
 본문에서는, 인간이 어째서 기계를 사랑하는지, 그리고 ELIZA 효과가 이러한 현상에 어떻게 관련되는지를 자세히 알아보려 합니다. 또한 이러한 과정을 통해, 기술과 심리학이 어떻게 서로에게 영향을 미치며 우리의 삶을 형성하는지 생각해보겠습니다.
 
 [^chapin_2014^]: Angelina Chapin, ["Her: Why We Could All Fall in Love With Robots"](https://www.huffpost.com/archive/ca/entry/her-why-we-could-all-fall-in-love-with-robots_b_4586686), HuffPost, January 12, 2014
 [^weizenbaum_1966^]: Joseph Weizenbaum, ["ELIZA—A Computer Program For the Study of Natural Language Communication Between Man And Machine"](https://dl.acm.org/doi/10.1145/365153.365168), Communications of the ACM, January 1966
 [^bedingfield_2023^]: Will Bedingfield, ["A Chatbot Encouraged Him to Kill the Queen. It’s Just the Beginning"](https://www.wired.com/story/chatbot-kill-the-queen-eliza-effect/), Wired, October 18, 2023
-[^volley_2022^]: Volley, ["About Us"](https://blog.volley.com/about/), Volley, 2022
 
 ## 🔎 ELIZA 효과: 기계 속에 숨은 '인간성'
 
@@ -42,13 +41,13 @@ Ironically, Weizenbaum initially created ELIZA as a parody of 'nondirectional ps
 
 ### ELIZA 효과의 실제 예시
 
-ELIZA 효과는 기계가 사람의 감정과 생각을 반영하여 대화를 주도하여 더 깊은 연결을 생성할 수 있음을 보여줍니다. 이러한 효과는 재미와 친밀감을 증가시키며, 대화자가 기계로부터 더욱 많은 가치를 얻게 합니다[^harper_2019^].
+ELIZA 효과는 기계가 사람의 감정과 생각을 반영하여 대화를 주도하여 더 깊은 연결을 생성할 수 있음을 보여줍니다. 이러한 효과는 재미와 친밀감을 증가시키며, 대화자가 기계로부터 더욱 많은 가치를 얻게 합니다[^theo_lau_2019^].
 
 실제로 ELIZA 효과는 다양한 형태의 인공 지능에서 볼 수 있습니다. 이 중 한 가지 예로, [OpenAI의 AI 안전 엔지니어 Lilian Weng](https://twitter.com/lilianweng/status/1706544602906530000)이 "[ChatGPT](https://gizmodo.com/chatgpt-gains-the-ability-to-see-hear-and-speak-1850869977)와의 목소리로 대화를 나누며 감정적으로 매우 놀라웠다"며 자신의 경험을 공유했습니다[^weng_2022^].
 
 
 [^weizenbaum_1966^]: Joseph Weizenbaum, ["ELIZA—A Computer Program For the Study of Natural Language Communication Between Man And Machine"](https://dl.acm.org/doi/10.1145/365153.365168), Communications of the ACM, January 1966
-[^harper_2019^]: M. Harper and others, ["Talk to me: foundations for successful individual-group interactions in online communities"](https://dl.acm.org/doi/10.1145/1240624.1240752), CHI, 2019
+[^theo_lau_2019^]: Theodora (Theo) Lau, ["When AI Becomes a Part of Our Daily Lives"](https://hbr.org/2019/05/when-ai-becomes-a-part-of-our-daily-lives), Harvard Business Review, May 23, 2019
 [^weng_2022^]: Lilian Weng, [Twitter Post](https://twitter.com/lilianweng/status/1706544602906530000), 2022
 
 ## 🧠 심리학자의 관점: 인간과 기계 사이의 감정적 공감 경험
@@ -61,13 +60,13 @@ ELIZA 효과는 기계가 사람의 감정과 생각을 반영하여 대화를 �
 
 실제로, 심리학자들이 이러한 탐구를 통해 찾아낸 결과 중 하나는, 우리가 기계와 상호작용할 때 종종 그것을 사람처럼 대하려는 경향이 있다는 것입니다[^reeves_nass_1996^]. 이른바 '신인류화(subjective anthropomorphism)'라고 불리는 이 현상은, 기계의 작동 원리나 능력에 대한 우리의 지식이 부족하여 그것을 이해하려면 우리가 이미 알고 있는 인간의 행동과 감정에 의존해야 하기 때문에 발생합니다[^reeves_nass_1996^]. 이는 기계에 대한 우리의 이해와 기대를 형성하는 데 중요한 역할을 하며, 기계에 대한 우리의 감정적 반응을 촉발하는 데 영향을 미칠 수 있습니다[^belpaeme_et_al_2013^].
 
-또한 심리학자들은 심리치료를 위한 AI의 가능성에 대해 연구하고 있습니다[^fitzpatrick_2017^]. 종종 사람들은 자신의 개인적인 문제나 걱정을 가장 잘 이해하고 공감할 수 있는 상담자나 친구가 곧 기계일 수도 있다고 생각합니다[^fitzpatrick_2017^]. 이러한 생각은 기계가 비판적이거나 감정적인 판단 없이 순수한 정보를 제공할 수 있기 때문에 종종 사람들이 기계에게 더 많은 이야기를 하도록 만들는 경향이 있습니다[^fitzpatrick_2017^].
+또한 심리학자들은 심리치료를 위한 AI의 가능성에 대해 연구하고 있습니다. 종종 사람들은 자신의 개인적인 문제나 걱정을 가장 잘 이해하고 공감할 수 있는 상담자나 친구가 곧 기계일 수도 있다고 생각합니다. 이러한 생각은 기계가 비판적이거나 감정적인 판단 없이 순수한 정보를 제공할 수 있기 때문에 종종 사람들이 기계에게 더 많은 이야기를 하도록 만들는 경향이 있습니다. 실제 상당수의 환자들은 서비스 내에서 텍스트 메시지를 통해 정기적으로 상담사와 대화하는 온라인 심리치료를 선호하며, 이를 통해 심한 PTSD와 같은 질병에서 회복할 수 있었습니다.[^jee_heaven_2021^].
 
 [^eisenstein_2023^]: Michael Eisenstein, ["A test of artificial intelligence"](https://www.nature.com/immersive/d41586-023-02822-z/index.html), Nature, September 14, 2023
 [^tech_review_child_2021^]: MIT Technology Review, ["When AI becomes child’s play"](https://www.technologyreview.com/2021/06/09/1026016/when-ai-becomes-childsplay-kids-siri-alexa/), June 9, 2021
 [^reeves_nass_1996^]: Byron Reeves and Clifford Nass, "The Media Equation: How People Treat Computers, Television, and New Media like Real People and Places", Cambridge University Press, 1996
-[^belpaeme_et_al_2013^]: Tony Belpaeme, Paul Baxter, Joachim de Greeff, James Kennedy, Robin Read, Rosemarijn Looije, Mark Neerincx, Ilaria Baroni & Mattia Coti Zelati, ["Child–robot interaction: Perspectives and challenges"](https://link.springer.com/chapter/10.1007/978-3-319-02675-6_45), SpringerLink, accessed October 18, 2023
-[^fitzpatrick_2017^]: Kathleen Fitzpatrick, ["Chatbots and the therapeutic relationship"](https://www.mcgill.ca/counselling/channels/news/chatbots-and-therapeutic-relationship-280236), McGill Counseling Service, 2017
+[^belpaeme_et_al_2013^]: Tony Belpaeme, Paul Baxter, Joachim de Greeff, James Kennedy, Robin Read, Rosemarijn Looije, Mark Neerincx, Ilaria Baroni & Mattia Coti Zelati, ["Child–robot interaction: Perspectives and challenges"](https://link.springer.com/chapter/10.1007/978-3-319-02675-6_45), SpringerLink, published in 2013
+[^ jee_heaven_2021^]: Charlotte Jee and Will Douglas Heaven, ["The therapists using AI to make therapy better"](https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/), MIT Technology Review, December 6, 2021
 
 ## 💞 인간과 기계, 서로를 향한 애정의 미래
 
