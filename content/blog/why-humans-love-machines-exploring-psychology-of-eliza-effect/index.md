@@ -25,7 +25,7 @@ description: 심리학, 기술, 인공지능이 만나면 생기는 일이 무�
 
 ELIZA 효과는 기본적으로 사용자가 기계와 상호작용할 때 자신의 감정이나 생각을 반영하거나 이해하는 것으로 느끼는 심리적 경향을 나타내는 용어입니다. 이는 1966년 [Joseph Weizenbaum](https://en.wikipedia.org/wiki/Joseph_Weizenbaum)가 개발한 컴퓨터 프로그램 '[ELIZA](https://en.wikipedia.org/wiki/ELIZA)'와 그의 초기 연구[^weizenbaum_1966^]를 통해 처음 발견되었습니다.
 
-ELIZA는 사람이 입력한 문구를 재구성하여 똑같은 아이디어를 반영한 질문으로 다시 내보내는 매우 간단한 대화형 프로그램이었습니다. 이는 [로저스(Rogers)의 상담 방법](https://www.therapistaid.com/therapy-guide/rogerian-therapy)에서 영감을 받아, 상담자가 대화 중 특정 주제에 대해 설명하면 그를 장려하고 긍정적인 반응을 보이는 방법을 따랐습니다. 놀랍게도, 이 간단한 대화 형식은 많은 사람들에게 진정성을 갖춘 인간의 대화 파트너와 같은 느낌을 주었습니다[^weizenbaum_1966^]. 이로 인해 ELIZA 효과라는 개념이 비롯되었습니다.
+ELIZA는 사람이 입력한 문구를 재구성하여 똑같은 아이디어를 반영한 질문으로 다시 내보내는 매우 간단한 대화형 프로그램이었습니다. 이는 [로저스(Rogers)의 상담 방법](https://en.wikipedia.org/wiki/Person-centered_therapy)에서 영감을 받아, 상담자가 대화 중 특정 주제에 대해 설명하면 그를 장려하고 긍정적인 반응을 보이는 방법을 따랐습니다. 놀랍게도, 이 간단한 대화 형식은 많은 사람들에게 진정성을 갖춘 인간의 대화 파트너와 같은 느낌을 주었습니다[^weizenbaum_1966^]. 이로 인해 ELIZA 효과라는 개념이 비롯되었습니다.
 
 ### ELIZA 효과의 탄생
 
@@ -37,11 +37,11 @@ ELIZA는 사람의 문장을 재구성하여 그에 반응하는 방식을 사�
 
 Ironically, Weizenbaum initially created ELIZA as a parody of 'nondirectional psychotherapy' where the therapist mostly reflects the patient's statements and rarely gives direct advice[^weizenbaum_1966^]. However, some people treated ELIZA as a real therapist, sharing personal feelings and thoughts with the program[^weizenbaum_1966^].
 
-갑작스러운 이 반응에 Weizenbaum는 놀랐습니다. 그는 이를 통해 사람들이 기계가 자신의 말을 실제로 이해한다고 믿을 수 있는 가용성 있는 신호를 제공하는 한 기계와 감정적으로 얽히게 될 수 있다는 결론을 내렸습니다[^weizenbaum_1966^].
+이런 반응에 Weizenbaum은 놀랐습니다. 그는 이를 통해 사람들이 기계가 자신의 말을 실제로 이해한다고 믿도록 만드는 충분한 신호를 제공하면, 기계와 감정적으로 얽히게 될 수 있다는 결론을 내렸습니다[^weizenbaum_1966^].
 
-### ELIZA 효과의 실제 예시
+### ELIZA 효과의 실제 사례
 
-ELIZA 효과는 기계가 사람의 감정과 생각을 반영하여 대화를 주도하여 더 깊은 연결을 생성할 수 있음을 보여줍니다. 이러한 효과는 재미와 친밀감을 증가시키며, 대화자가 기계로부터 더욱 많은 가치를 얻게 합니다[^theo_lau_2019^].
+ELIZA 효과는 기계가 사람의 감정과 생각을 반영하여 대화를 이끌어나감으로써 더 깊은 연결을 형성할 수 있음을 보여줍니다. 이러한 효과는 재미와 친밀감을 증가시키며, 대화자가 기계로부터 더 많은 가치를 얻게 합니다[^theo_lau_2019^].
 
 실제로 ELIZA 효과는 다양한 형태의 인공 지능에서 볼 수 있습니다. 이 중 한 가지 예로, [OpenAI의 AI 안전 엔지니어 Lilian Weng](https://twitter.com/lilianweng/status/1706544602906530000)이 "[ChatGPT](https://gizmodo.com/chatgpt-gains-the-ability-to-see-hear-and-speak-1850869977)와의 목소리로 대화를 나누며 감정적으로 매우 놀라웠다"며 자신의 경험을 공유했습니다[^weng_2022^].
 
