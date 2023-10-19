@@ -25,7 +25,7 @@ description: 심리학, 기술, 인공지능이 만나면 생기는 일이 무�
 
 ELIZA 효과는 사용자가 기계와 상호작용할 때, 그 기계가 자신의 감정이나 생각을 반영하거나 이해하는 것처럼 느끼는 심리학적 경향을 말합니다. 이 효과는 1966년 [Joseph Weizenbaum](https://en.wikipedia.org/wiki/Joseph_Weizenbaum)가 만든 컴퓨터 프로그램 '[ELIZA](https://en.wikipedia.org/wiki/ELIZA)'의 초기 연구를 통해 처음 발견되었습니다[^weizenbaum_1966^].
 
-ELIZA는 사람이 입력한 문구를 재구성하여 똑같은 아이디어를 반영한 질문으로 다시 내보내는 매우 간단한 대화형 프로그램이었습니다. 이는 [로저스(Rogers)의 상담 방법](https://en.wikipedia.org/wiki/Person-centered_therapy)에서 영감을 받아, 상담자가 대화 중 특정 주제에 대해 설명하면 그를 장려하고 긍정적인 반응을 보이는 방법을 따랐습니다. 놀랍게도, 이 간단한 대화 형식은 많은 사람들에게 진정성을 갖춘 인간의 대화 파트너와 같은 느낌을 주었습니다[^weizenbaum_1966^]. 이로 인해 ELIZA 효과라는 개념이 비롯되었습니다.
+ELIZA는 사람이 입력한 문구를 재구성하여 똑같은 아이디어를 반영한 질문으로 다시 내보내는 매우 간단한 대화형 프로그램이었습니다. 이는 [로저스(Rogers)의 상담 방법](https://en.wikipedia.org/wiki/Person-centered_therapy)에서 영감을 받아, 상담자가 대화 중 특정 주제에 대해 설명하면 그를 장려하고 긍정적인 반응을 보이는 방법을 따랐습니다. 놀랍게도, 이 간단한 대화 형식은 사용자들에게 마치 이해력과 공감력을 갖춘 인간의 대화 파트너와 같은 느낌을 주었으며, 이로 인해 ELIZA 효과라는 개념이 탄생하게 되었습니다[^weizenbaum_1966^].
 
 ### ELIZA 효과의 탄생
 
