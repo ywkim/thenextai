@@ -23,28 +23,27 @@ description: 심리학, 기술, 인공지능이 만나면 생기는 일이 무�
 
 ## 🔎 ELIZA 효과: 기계 속에 숨은 '인간성'
 
-ELIZA 효과는 기본적으로 사용자가 기계와 상호작용할 때 자신의 감정이나 생각을 반영하거나 이해하는 것으로 느끼는 심리적 경향을 나타내는 용어입니다. 이는 1966년 [Joseph Weizenbaum](https://en.wikipedia.org/wiki/Joseph_Weizenbaum)가 개발한 컴퓨터 프로그램 '[ELIZA](https://en.wikipedia.org/wiki/ELIZA)'와 그의 초기 연구[^weizenbaum_1966^]를 통해 처음 발견되었습니다.
+ELIZA 효과는 사용자가 기계와 상호작용할 때, 그 기계가 자신의 감정이나 생각을 반영하거나 이해하는 것처럼 느끼는 심리학적 경향을 말합니다. 이 효과는 1966년 [Joseph Weizenbaum](https://en.wikipedia.org/wiki/Joseph_Weizenbaum)가 만든 컴퓨터 프로그램 '[ELIZA](https://en.wikipedia.org/wiki/ELIZA)'의 초기 연구를 통해 처음 발견되었습니다[^weizenbaum_1966^].
 
 ELIZA는 사람이 입력한 문구를 재구성하여 똑같은 아이디어를 반영한 질문으로 다시 내보내는 매우 간단한 대화형 프로그램이었습니다. 이는 [로저스(Rogers)의 상담 방법](https://en.wikipedia.org/wiki/Person-centered_therapy)에서 영감을 받아, 상담자가 대화 중 특정 주제에 대해 설명하면 그를 장려하고 긍정적인 반응을 보이는 방법을 따랐습니다. 놀랍게도, 이 간단한 대화 형식은 많은 사람들에게 진정성을 갖춘 인간의 대화 파트너와 같은 느낌을 주었습니다[^weizenbaum_1966^]. 이로 인해 ELIZA 효과라는 개념이 비롯되었습니다.
 
 ### ELIZA 효과의 탄생
 
-![A conversation with the ELIZA chatbot.](./ELIZA_conversation.png)
+![ELIZA 챗봇과의 대화.](./ELIZA_conversation.png)
 
 > 이미지 출처: [위키백과](https://en.wikipedia.org/wiki/ELIZA)
 
 ELIZA는 사람의 문장을 재구성하여 그에 반응하는 방식을 사용했습니다. 예를 들어, 사용자가 "나는 아주 행복해"라고 말하면 ELIZA는 "너가 아주 행복하다니 너무 좋네. 그 이유가 뭐야?"라고 대답했습니다[^eisenstein_2023^]. 이처럼 ELIZA는 사용자가 무엇을 말하든지 간에 그것을 반영하고 질문하여 대화를 계속 이어나갔습니다[^eisenstein_2023^].
 
-Ironically, Weizenbaum initially created ELIZA as a parody of 'nondirectional psychotherapy' where the therapist mostly reflects the patient's statements and rarely gives direct advice[^weizenbaum_1966^]. However, some people treated ELIZA as a real therapist, sharing personal feelings and thoughts with the program[^weizenbaum_1966^].
+Weizenbaum은 원래 ELIZA를 '비지향성 심리치료'의 풍자로 만들었는데, 이 방식에서는 상담사가 대부분 환자의 말을 반영하며 거의 직접적인 조언을 하지 않습니다[^weizenbaum_1966^]. 그럼에도 불구하고, 일부 사람들은 ELIZA를 실제 치료사처럼 대해, 개인적인 감정과 생각을 그 프로그램과 공유했습니다[^weizenbaum_1966^].
 
-이런 반응에 Weizenbaum은 놀랐습니다. 그는 이를 통해 사람들이 기계가 자신의 말을 실제로 이해한다고 믿도록 만드는 충분한 신호를 제공하면, 기계와 감정적으로 얽히게 될 수 있다는 결론을 내렸습니다[^weizenbaum_1966^].
+Weizenbaum은 이런 반응에 놀랐습니다. 그는 이를 통해, 기계가 사람들이 그것을 실제로 이해한다고 믿을 수 있는 충분한 신호를 제공하면, 사람들은 그 기계와 감정적으로 얽히게 될 수 있다는 결론을 도출했습니다[^weizenbaum_1966^].
 
 ### ELIZA 효과의 실제 사례
 
 ELIZA 효과는 기계가 사람의 감정과 생각을 반영하여 대화를 이끌어나감으로써 더 깊은 연결을 형성할 수 있음을 보여줍니다. 이러한 효과는 재미와 친밀감을 증가시키며, 대화자가 기계로부터 더 많은 가치를 얻게 합니다[^theo_lau_2019^].
 
 실제로 ELIZA 효과는 다양한 형태의 인공 지능에서 볼 수 있습니다. 이 중 한 가지 예로, [OpenAI의 AI 안전 엔지니어 Lilian Weng](https://twitter.com/lilianweng/status/1706544602906530000)이 "[ChatGPT](https://gizmodo.com/chatgpt-gains-the-ability-to-see-hear-and-speak-1850869977)와의 목소리로 대화를 나누며 감정적으로 매우 놀라웠다"며 자신의 경험을 공유했습니다[^weng_2022^].
-
 
 [^weizenbaum_1966^]: Joseph Weizenbaum, ["ELIZA—A Computer Program For the Study of Natural Language Communication Between Man And Machine"](https://dl.acm.org/doi/10.1145/365153.365168), Communications of the ACM, January 1966
 [^theo_lau_2019^]: Theodora (Theo) Lau, ["When AI Becomes a Part of Our Daily Lives"](https://hbr.org/2019/05/when-ai-becomes-a-part-of-our-daily-lives), Harvard Business Review, May 23, 2019
@@ -60,7 +59,7 @@ ELIZA 효과는 기계가 사람의 감정과 생각을 반영하여 대화를 �
 
 실제로, 심리학자들이 이러한 탐구를 통해 찾아낸 결과 중 하나는, 우리가 기계와 상호작용할 때 종종 그것을 사람처럼 대하려는 경향이 있다는 것입니다[^reeves_nass_1996^]. 이른바 '신인류화(subjective anthropomorphism)'라고 불리는 이 현상은, 기계의 작동 원리나 능력에 대한 우리의 지식이 부족하여 그것을 이해하려면 우리가 이미 알고 있는 인간의 행동과 감정에 의존해야 하기 때문에 발생합니다[^reeves_nass_1996^]. 이는 기계에 대한 우리의 이해와 기대를 형성하는 데 중요한 역할을 하며, 기계에 대한 우리의 감정적 반응을 촉발하는 데 영향을 미칠 수 있습니다[^belpaeme_et_al_2013^].
 
-또한 심리학자들은 심리치료를 위한 AI의 가능성에 대해 연구하고 있습니다. 종종 사람들은 자신의 개인적인 문제나 걱정을 가장 잘 이해하고 공감할 수 있는 상담자나 친구가 곧 기계일 수도 있다고 생각합니다. 이러한 생각은 기계가 비판적이거나 감정적인 판단 없이 순수한 정보를 제공할 수 있기 때문에 종종 사람들이 기계에게 더 많은 이야기를 하도록 만들는 경향이 있습니다. 실제 상당수의 환자들은 서비스 내에서 텍스트 메시지를 통해 정기적으로 상담사와 대화하는 온라인 심리치료를 선호하며, 이를 통해 심한 PTSD와 같은 질병에서 회복할 수 있었습니다.[^jee_heaven_2021^].
+또한 심리학자들은 심리치료를 위한 AI의 가능성에 대해 연구하고 있습니다. 종종 사람들은 자신의 개인적인 문제나 걱정을 가장 잘 이해하고 공감할 수 있는 상담자나 친구가 곧 기계일 수도 있다고 생각합니다. 이러한 생각은 기계가 비판적이거나 감정적인 판단 없이 순수한 정보를 제공할 수 있기 때문에 종종 사람들이 기계에게 더 많은 이야기를 하도록 만들는 경향이 있습니다. 실제로 많은 환자들은 텍스트 메시지를 통해 정기적으로 상담사와 대화하는 온라인 심리치료를 선호하며, 이를 통해 심각한 PTSD 등의 질환이 호전되는 것을 경험했습니다[^jee_heaven_2021^].
 
 [^eisenstein_2023^]: Michael Eisenstein, ["A test of artificial intelligence"](https://www.nature.com/immersive/d41586-023-02822-z/index.html), Nature, September 14, 2023
 [^tech_review_child_2021^]: MIT Technology Review, ["When AI becomes child’s play"](https://www.technologyreview.com/2021/06/09/1026016/when-ai-becomes-childsplay-kids-siri-alexa/), June 9, 2021
