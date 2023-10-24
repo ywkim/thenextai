@@ -3,7 +3,7 @@
   "private": true,
   "description": "Join us in building an AI that not only educates but also nurtures emotional and moral development in children.",
   "version": "0.1.0",
-  "author": "The Next AI Team <youngwook.kim@gmail.com>",
+  "author": "AI for Next Generation Team <youngwook.kim@gmail.com>",
   "dependencies": {
     "gatsby": "^5.11.0",
     "gatsby-plugin-disqus": "^1.2.6",
