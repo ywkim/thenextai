@@ -9,10 +9,10 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `The Next AI`,
+    title: `AI for Next Generation`,
     author: {
-      name: `The Next AI Team`,
-      summary: `Creating a future where AI grows with our children, guiding and assisting them through their life's journey.`,
+      name: `AI for Next Generation Team`,
+      summary: `Pioneering the development of AI that grows collectively with the next generation.`,
     },
     description: `Join us in building an AI that not only educates but also nurtures emotional and moral development in children.`,
     siteUrl: `https://thenextai.org/`,
@@ -106,7 +106,7 @@ module.exports = {
               }
             }`,
             output: "/rss.xml",
-            title: "The Next AI Blog RSS Feed",
+            title: "AI for Next Generation Blog RSS Feed",
           },
         ],
       },
@@ -114,8 +114,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `The Next AI`,
-        short_name: `The Next AI`,
+        name: `AI for Next Generation`,
+        short_name: `AI for Next Generation`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website

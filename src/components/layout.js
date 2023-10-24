@@ -34,13 +34,7 @@ const Layout = ({ location, title, children }) => {
         </div>
       </div>
       <footer className="fixed inset-x-0 bottom-0 h-12 flex items-center justify-center bg-white shadow">
-        © {new Date().getFullYear()}, Built with {` `}
-        <a
-          className="text-indigo-600 hover:text-indigo-500"
-          href="https://www.gatsbyjs.com"
-        >
-          Gatsby
-        </a>
+        © {new Date().getFullYear()}, AI for Next Generation
       </footer>
     </div>
   )
