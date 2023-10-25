@@ -25,10 +25,14 @@ module.exports = {
     `gatsby-plugin-image`,
     `gatsby-plugin-sitemap`,
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: "G-FSNKD6LLDV",
-        head: true,
+        trackingIds: [
+          "G-FSNKD6LLDV", // Google Analytics / GA
+        ],
+        pluginConfig: {
+          head: true,
+        },
       },
     },
     {
