@@ -18,8 +18,10 @@ const Hero: React.FC = () => (
     </div>
     <div className="flex flex-col items-start w-full">
       <div
-        className="w-full h-0 pt-50 bg-center bg-cover"
-        style={{ backgroundImage: `url(./image.png)` }}
+        className="w-full h-64 pt-50 bg-center bg-cover"
+        style={{
+          backgroundImage: `url(./A_child_and_a_tiny_robot_cute_Pixar_style_holding_hands_or__3ba9807c-e467-41f8-b710-b19a0bc03d9f.png)`,
+        }}
       />
     </div>
   </div>
