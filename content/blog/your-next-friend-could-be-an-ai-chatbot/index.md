@@ -24,5 +24,5 @@ AI 챗봇이 인기를 얻고 있는 이유는 그들이 그저 잘 만든 알�
 이러한 관점들은 AI 챗봇 시장의 현재 상태와 향후 전망을 가늠하고, 그 이유를 이해하는 데 중요한 통찰력을 제공합니다. 그리고 이런 분석을 통해 우리는 더 나은 미래를 예측하고 준비할 수 있습니다.
 
 ## 참조문헌
-[^arwa_2023^]: Arwa Mahdawi (2023). Could an 'emotional support' chatbot help me de-stress? Only one way to find out. The Guardian. Retrieved from https://www.theguardian.com/commentisfree/2023/may/08/emotional-support-chatbot-ai.
-[^andreessen_horowitz_2023^]: Alex Immerman & Jamie Sullivan (2023). Let's Get Personal: Why AI Will Unlock a Massive Market for Online Consumer Services. Andreessen Horowitz. Retrieved from https://a16z.com/2023/09/07/lets-get-personal-why-ai-will-unlock-a-massive-market-for-online-consumer-services/.
+[^arwa_2023^]: Arwa Mahdawi, [Could an 'emotional support' chatbot help me de-stress? Only one way to find out.](https://www.theguardian.com/commentisfree/2023/may/08/emotional-support-chatbot-ai) The Guardian, May 8, 2023
+[^andreessen_horowitz_2023^]: Alex Immerman & Jamie Sullivan, [Let's Get Personal: Why AI Will Unlock a Massive Market for Online Consumer Services.](https://a16z.com/2023/09/07/lets-get-personal-why-ai-will-unlock-a-massive-market-for-online-consumer-services/), Andreessen Horowitz, September 7,2023
