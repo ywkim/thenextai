@@ -23,6 +23,27 @@ AI 챗봇이 인기를 얻고 있는 이유는 그들이 그저 잘 만든 알�
 
 이러한 관점들은 AI 챗봇 시장의 현재 상태와 향후 전망을 가늠하고, 그 이유를 이해하는 데 중요한 통찰력을 제공합니다. 그리고 이런 분석을 통해 우리는 더 나은 미래를 예측하고 준비할 수 있습니다.
 
+## 주요 플레이어
+다음은 감정 지원 AI 챗봇 세계의 주요 플레이어들입니다. 그들은 각각 독특한 방법으로 AI 챗봇 기술을 활용하여 사용자에게 가치를 제공하고, 이를 통해 각자의 시장 구분을 만들어나갑니다[^arwa_2023^][^andreessen_horowitz_2023^].
+
+### Pi
+![Pi AI Chatbot](https://your_image_link.com)
+
+**Pi**는 인공지능(AI) 챗봇을 제공하는 기업 중 하나로, 각 사용자의 선호도와 작용 방식에 맞춤형 서비스를 제공하는 것을 주요 목표로 하고 있습니다. 이 기업의 AI 챗봇은 약 600명의 '교사들'(심리건강 전문가 포함)로부터 훈련받았으며, 사용자의 말을 인식하고 적절한 대화를 제공하는 것을 통해 사용자 간의 연결을 강화하려고 합니다[^arwa_2023^].
+
+### ERNIE Bot
+![ERNIE Bot](https://your_image_link.com)
+
+**ERNIE Bot**은 사용자 경험을 최우선 고려하는 AI 챗봇 중 하나입니다. 이 챗봇은 개인화된 대화를 통해 사용자와의 강력한 연결을 도모하며, 감정지원 서비스를 제공합니다. ERNIE Bot는 전문 심리학자 및 AI 개발자 집단에 의해 감정 데이터와 언어 데이터를 바탕으로 훈련받았습니다[^zeyi_2023^].
+
+### Character.AI
+![Character.AI](https://your_image_link.com)
+
+마지막으로, **Character.AI**는 강력한 AI 챗봇을 제공하는 기업 중 하나입니다. 이 기업의 챗봇은 사용자에게 도우미, 친구, 그리고 가이드의 역할을 제공하여 고객 간의 충성도와 참여도를 높입니다[^andreessen_horowitz_2023^]. 실제로 이 기업의 챗봇은 이미 많은 사용자들이 튜터나 치료사로 사용하고 있습니다[^andreessen_horowitz_2023^].
+
+이러한 기업들은 각자의 고유한 방법으로 AI 챗봇을 활용하여 사용자에게 서비스를 제공하고 있으며, 이를 통해 시장에서 독특한 자리를 차지하고 있습니다[^andreessen_horowitz_2023^].
+
 ## 참조문헌
 [^arwa_2023^]: Arwa Mahdawi, [Could an 'emotional support' chatbot help me de-stress? Only one way to find out.](https://www.theguardian.com/commentisfree/2023/may/08/emotional-support-chatbot-ai) The Guardian, May 8, 2023
 [^andreessen_horowitz_2023^]: Alex Immerman & Jamie Sullivan, [Let's Get Personal: Why AI Will Unlock a Massive Market for Online Consumer Services.](https://a16z.com/2023/09/07/lets-get-personal-why-ai-will-unlock-a-massive-market-for-online-consumer-services/), Andreessen Horowitz, September 7, 2023
+[^zeyi_2023^]: Zeyi Yang, [Chinese AI chatbots want to be your emotional support.](https://www.technologyreview.com/2023/09/06/1079026/chinese-ai-chatbots-emotional-support/), MIT Technology Review, September 6, 2023
