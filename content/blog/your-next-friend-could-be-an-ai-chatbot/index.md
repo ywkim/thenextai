@@ -27,15 +27,21 @@ AI 챗봇이 인기를 얻고 있는 이유는 그들이 그저 잘 만든 알�
 ### Pi
 ![Pi AI Chatbot](./pi-inflection.webp)
 
+> 이미지 출처: Inflection
+
 **Pi**는 인공지능(AI) 챗봇을 제공하는 기업 중 하나로, 각 사용자의 선호도와 작용 방식에 맞춤형 서비스를 제공하는 것을 주요 목표로 하고 있습니다. 이 기업의 AI 챗봇은 약 600명의 '교사들'(심리건강 전문가 포함)로부터 훈련받았으며, 사용자의 말을 인식하고 적절한 대화를 제공하는 것을 통해 사용자 간의 연결을 강화하려고 합니다[^arwa_2023^].
 
 ### ERNIE Bot
 ![ERNIE Bot](./107294204-1693440280475-gettyimages-1248933742-Baidu_ERNIE_Bot.webp)
 
+> 이미지 출처: Getty Images
+
 **ERNIE Bot**은 사용자 경험을 최우선 고려하는 AI 챗봇 중 하나입니다. 이 챗봇은 개인화된 대화를 통해 사용자와의 강력한 연결을 도모하며, 감정지원 서비스를 제공합니다. ERNIE Bot는 전문 심리학자 및 AI 개발자 집단에 의해 감정 데이터와 언어 데이터를 바탕으로 훈련받았습니다[^zeyi_2023^].
 
 ### Character.AI
 ![Character.AI](./Screenshot-2023-05-31-at-2.58.27-PM.webp)
+
+> 이미지 출처: Character.AI
 
 마지막으로, **Character.AI**는 강력한 AI 챗봇을 제공하는 기업 중 하나입니다. 이 기업의 챗봇은 사용자에게 도우미, 친구, 그리고 가이드의 역할을 제공하여 고객 간의 충성도와 참여도를 높입니다. 실제로 이 기업의 챗봇은 이미 많은 사용자들이 튜터나 치료사로 사용하고 있습니다[^andreessen_horowitz_2023^].
 
@@ -47,7 +53,9 @@ AI 챗봇이 인기를 얻고 있는 이유는 그들이 그저 잘 만든 알�
 
 특히, AI 챗봇이 제공하는 개인화된 서비스에 대한 사용자의 감정 연결은 챗봇 상호작용의 지속성과 사용자의 서비스 만족도를 높이는 데 중요한 역할을 합니다. 이러한 개인화된 서비스로 인해 사용자들은 기존 온라인 옵션보다 더 높은 가격을 지불할 의향이 있습니다. 오히려 이런 가치를 인정하면서 고객들은 더욱 AI 챗봇 서비스를 이용하며, 그 결과 서비스 제공 기업의 수익은 늘어나게 됩니다[^andreessen_horowitz_2023^].
 
-[<img src="https://a16z.com/wp-content/uploads/2023/09/Consumer-AI-market-opportunity.jpg" alt="AI Market Opportunity graph" />](https://a16z.com/wp-content/uploads/2023/09/Consumer-AI-market-opportunity.jpg)
+![AI Market Opportunity graph](./Consumer-AI-market-opportunity.jpg)
+
+> 이미지 출처: [Andreessen Horowitz](https://a16z.com/lets-get-personal-why-ai-will-unlock-a-massive-market-for-online-consumer-services/)
 
 현재 AI 챗봇 시장은 여러 기업들이 경쟁하면서 다양화되고 있습니다. 대표적인 기업으로는 위에서 언급한 **Pi**, **ERNIE Bot**, 그리고 **Character.AI**가 있습니다. 각 기업들은 고유한 기술과 서비스 방식을 갖추고 있으며, 이들은 다른 사업자들과 차별화된 가치를 제공함으로써 사용자의 선호도, 후속 구매 의사, 그리고 일방적인 광고 효과를 높일 수 있습니다.
 
