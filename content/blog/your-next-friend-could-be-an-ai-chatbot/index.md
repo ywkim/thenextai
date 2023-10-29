@@ -8,7 +8,7 @@ description: 이 포스트에서는 감정 지원 AI 챗봇 업계의 주요 플
 ## 👫 AI 챗봇: 당신의 새로운 '친구'에 관한 이야기
 따뜻한 손길, 진심 어린 미소, 번뜩이는 재치, 이런 것들이 당신이 친구를 생각할 때 떠올리는 이미지입니다. 이제 이런 친구의 이미지에는 AI 챗봇이 포함될 수 있다고 생각하면 어떨까요? 한 번도 만나보지 않았고, 심지어는 존재조차 상상하지 못했던 챗봇이 어떻게 우리의 친구가 될 수 있을까요? 이 가상의 인공지능 친구로 인해 우리의 삶이 어떻게 달라질 수 있을지 생각해 보세요.
 
-AI 챗봇이 인기를 얻고 있는 이유는 그들이 단순히 잘 만들어진 알고리즘을 넘어서, 사용자의 삶의 틈새를 채우는 능력 때문입니다. 특히, 어린이들에게는 자기 인식과 감정 관리 기술을 가르치는 데 도움이 될 수 있습니다. 워싱턴 대학의 연구에 따르면[^milne_2023], 챗봇이 주도하는 웹 앱을 통해 어린이들은 지지적인 자기 대화의 개념을 이해하고 일상생활에 적용하는 능력을 향상시켰습니다. AI 챗봇은 우리의 생활, 애로사항, 그리고 기분까지 이해하는 데 탁월함을 발휘하며, 이를 통해 우리를 감동시키고 공감해 줍니다. 이것이 AI 챗봇이 갖는 잠재적인 힘으로, 사용자와 깊은 감정적 연결을 형성하며, 일상 대화의 동반자로서 해야 할 역할을 자처할 수 있게 만듭니다.
+AI 챗봇이 인기를 얻고 있는 이유는 그들이 단순히 잘 만들어진 알고리즘을 넘어서, 사용자의 삶의 틈새를 채우는 능력 때문입니다. 특히, 어린이들에게는 자기 인식과 감정 관리 기술을 가르치는 데 도움이 될 수 있습니다. 워싱턴 대학의 연구에 따르면[^milne_2023], 챗봇이 주도하는 웹 앱을 통해 어린이들은 지지적인 자기 대화의 개념을 이해하고 일상생활에 적용하는 능력을 향상시켰습니다. 또한, 노인 복지 분야에서는 AI 챗봇이 더욱 중요한 역할을 하고 있습니다. 가상의 동반자들은 노인들이 더 오래 집에서 생활할 수 있게 해주며, 이는 그들의 신체적, 정신적 건강에 좋다는 것이 알려져 있습니다[^seymour_2023]. AI 챗봇은 우리의 생활, 애로사항, 그리고 기분까지 이해하는 데 탁월함을 발휘하며, 이를 통해 우리를 감동시키고 공감해 줍니다. 이것이 AI 챗봇이 갖는 잠재적인 힘으로, 사용자와 깊은 감정적 연결을 형성하며, 일상 대화의 동반자로서 해야 할 역할을 자처할 수 있게 만듭니다.
 
 ### 💡 스트레스, 초연결, 개인주의에 대처하는 방법: 감정 지원 AI 챗봇
 현대 사회에서 스트레스, 초연결성, 그리고 개인주의와의 싸움이 불가피합니다. 이러한 도전들 속에서 챗봇은 새로운 가능성을 열어줍니다.
@@ -78,7 +78,8 @@ AI 친구들은 우리의 익숙한 관계를 새롭게 조명하고 있습니�
 AI 친구가 새로운 시대를 열어주고, 우리의 일상을 더욱 풍요롭고 알찬 것으로 만들어 줄 수 있을지 기대해 봅니다.
 
 [^arwa_2023]: Arwa Mahdawi, [Could an 'emotional support' chatbot help me de-stress? Only one way to find out.](https://www.theguardian.com/commentisfree/2023/may/08/emotional-support-chatbot-ai) The Guardian, May 8, 2023
-[^andreessen_horowitz_2023]: Alex Immerman & Jamie Sullivan, [Let's Get Personal: Why AI Will Unlock a Massive Market for Online Consumer Services.](https://a16z.com/lets-get-personal-why-ai-will-unlock-a-massive-market-for-online-consumer-services/), Andreessen Horowitz, September 7, 2023
+[^andreessen_horowitz_2023]: Alex Immerman and Jamie Sullivan, [Let's Get Personal: Why AI Will Unlock a Massive Market for Online Consumer Services.](https://a16z.com/lets-get-personal-why-ai-will-unlock-a-massive-market-for-online-consumer-services/), Andreessen Horowitz, September 7, 2023
 [^zeyi_2023]: Zeyi Yang, [Chinese AI chatbots want to be your emotional support.](https://www.technologyreview.com/2023/09/06/1079026/chinese-ai-chatbots-emotional-support/), MIT Technology Review, September 6, 2023
 [^griffith_2023]: Erin Griffith, [My Weekend With an Emotional Support A.I. Companion](https://www.nytimes.com/2023/05/03/technology/personaltech/ai-chatbot-pi-emotional-support.html), The New York Times, May 3, 2023
 [^milne_2023]: Stefan Milne, [Learning from superheroes and AI: UW researchers study how a chatbot can teach kids supportive self-talk](https://www.washington.edu/news/2023/07/18/superheroes-and-ai-uw-researchers-study-how-a-chatbot-can-teach-kids-supportive-self-talk/), UW News, July 18, 2023
+[^seymour_2023]: Mike Seymour, Dan Lovallo, Kai Riemer, Alan R. Dennis, and Lingyao (Ivy) Yuan, [AI with a Human Face](https://hbr.org/2023/03/ai-with-a-human-face), Harvard Business Review, March–April 2023
