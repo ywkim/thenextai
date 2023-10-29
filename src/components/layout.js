@@ -34,7 +34,7 @@ const Layout = ({ location, title, children }) => {
         </div>
       </div>
       <footer className="fixed inset-x-0 bottom-0 h-12 flex items-center justify-center bg-white shadow">
-        © {new Date().getFullYear()}, AI for Next Generation
+        © {new Date().getFullYear()}, 함께 성장하는 인공지능, The Next AI
       </footer>
     </div>
   )
