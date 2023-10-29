@@ -34,7 +34,7 @@ AI 챗봇이 인기를 얻고 있는 이유는 그들이 그저 잘 만든 알�
 ### ERNIE Bot
 ![ERNIE Bot](./107294204-1693440280475-gettyimages-1248933742-Baidu_ERNIE_Bot.webp)
 
-> 이미지 출처: Getty Images
+> 이미지 출처: Getty Images / Baidu
 
 **ERNIE Bot**은 사용자 경험을 최우선 고려하는 AI 챗봇 중 하나입니다. 이 챗봇은 개인화된 대화를 통해 사용자와의 강력한 연결을 도모하며, 감정지원 서비스를 제공합니다. ERNIE Bot는 전문 심리학자 및 AI 개발자 집단에 의해 감정 데이터와 언어 데이터를 바탕으로 훈련받았습니다[^zeyi_2023].
 
