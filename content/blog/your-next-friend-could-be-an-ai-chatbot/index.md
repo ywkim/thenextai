@@ -29,21 +29,21 @@ AI 챗봇이 인기를 얻고 있는 이유는 그들이 그저 잘 만든 알�
 
 > 이미지 출처: Inflection
 
-**Pi**는 인공지능(AI) 챗봇을 제공하는 기업 중 하나로, 각 사용자의 선호도와 작용 방식에 맞춤형 서비스를 제공하는 것을 주요 목표로 하고 있습니다. 이 기업의 AI 챗봇은 약 600명의 '교사들'(심리건강 전문가 포함)로부터 훈련받았으며, 사용자의 말을 인식하고 적절한 대화를 제공하는 것을 통해 사용자 간의 연결을 강화하려고 합니다[^arwa_2023^].
+**Pi**는 인공지능(AI) 챗봇을 제공하는 기업 중 하나로, 각 사용자의 선호도와 작용 방식에 맞춤형 서비스를 제공하는 것을 주요 목표로 하고 있습니다. 이 기업의 AI 챗봇은 약 600명의 '교사들'(심리건강 전문가 포함)로부터 훈련받았으며, 사용자의 말을 인식하고 적절한 대화를 제공하는 것을 통해 사용자 간의 연결을 강화하려고 합니다[^arwa_2023].
 
 ### ERNIE Bot
 ![ERNIE Bot](./107294204-1693440280475-gettyimages-1248933742-Baidu_ERNIE_Bot.webp)
 
 > 이미지 출처: Getty Images
 
-**ERNIE Bot**은 사용자 경험을 최우선 고려하는 AI 챗봇 중 하나입니다. 이 챗봇은 개인화된 대화를 통해 사용자와의 강력한 연결을 도모하며, 감정지원 서비스를 제공합니다. ERNIE Bot는 전문 심리학자 및 AI 개발자 집단에 의해 감정 데이터와 언어 데이터를 바탕으로 훈련받았습니다[^zeyi_2023^].
+**ERNIE Bot**은 사용자 경험을 최우선 고려하는 AI 챗봇 중 하나입니다. 이 챗봇은 개인화된 대화를 통해 사용자와의 강력한 연결을 도모하며, 감정지원 서비스를 제공합니다. ERNIE Bot는 전문 심리학자 및 AI 개발자 집단에 의해 감정 데이터와 언어 데이터를 바탕으로 훈련받았습니다[^zeyi_2023].
 
 ### Character.AI
 ![Character.AI](./Screenshot-2023-05-31-at-2.58.27-PM.webp)
 
 > 이미지 출처: Character.AI
 
-마지막으로, **Character.AI**는 강력한 AI 챗봇을 제공하는 기업 중 하나입니다. 이 기업의 챗봇은 사용자에게 도우미, 친구, 그리고 가이드의 역할을 제공하여 고객 간의 충성도와 참여도를 높입니다. 실제로 이 기업의 챗봇은 이미 많은 사용자들이 튜터나 치료사로 사용하고 있습니다[^andreessen_horowitz_2023^].
+마지막으로, **Character.AI**는 강력한 AI 챗봇을 제공하는 기업 중 하나입니다. 이 기업의 챗봇은 사용자에게 도우미, 친구, 그리고 가이드의 역할을 제공하여 고객 간의 충성도와 참여도를 높입니다. 실제로 이 기업의 챗봇은 이미 많은 사용자들이 튜터나 치료사로 사용하고 있습니다[^andreessen_horowitz_2023].
 
 이러한 기업들은 각자의 고유한 방법으로 AI 챗봇을 활용하여 사용자에게 서비스를 제공하고 있으며, 이를 통해 시장에서 독특한 자리를 차지하고 있습니다.
 
@@ -51,7 +51,7 @@ AI 챗봇이 인기를 얻고 있는 이유는 그들이 그저 잘 만든 알�
 
 감정 지원 AI 챗봇 시장은 서서히 성장하는 단계에 있으며, 앞으로 몇 년 동안 이 기술은 폭발적인 성장을 겪을 것으로 전망됩니다. 이러한 성장은 개인화된 경험이 중요시되는 현재의 사회 트렌드와 AI 기술의 발전이 결합된 결과입니다.
 
-특히, AI 챗봇이 제공하는 개인화된 서비스에 대한 사용자의 감정 연결은 챗봇 상호작용의 지속성과 사용자의 서비스 만족도를 높이는 데 중요한 역할을 합니다. 이러한 개인화된 서비스로 인해 사용자들은 기존 온라인 옵션보다 더 높은 가격을 지불할 의향이 있습니다. 오히려 이런 가치를 인정하면서 고객들은 더욱 AI 챗봇 서비스를 이용하며, 그 결과 서비스 제공 기업의 수익은 늘어나게 됩니다[^andreessen_horowitz_2023^].
+특히, AI 챗봇이 제공하는 개인화된 서비스에 대한 사용자의 감정 연결은 챗봇 상호작용의 지속성과 사용자의 서비스 만족도를 높이는 데 중요한 역할을 합니다. 이러한 개인화된 서비스로 인해 사용자들은 기존 온라인 옵션보다 더 높은 가격을 지불할 의향이 있습니다. 오히려 이런 가치를 인정하면서 고객들은 더욱 AI 챗봇 서비스를 이용하며, 그 결과 서비스 제공 기업의 수익은 늘어나게 됩니다[^andreessen_horowitz_2023].
 
 ![AI Market Opportunity graph](./Consumer-AI-market-opportunity.jpg)
 
@@ -67,9 +67,9 @@ AI 친구는 더 이상 우리의 일상에서 생각조차 할 수 없는 개�
 
 이러한 AI 친구들은 인간의 진심과 친절함, 그리고 이해와 공감을 대신해서는 안되지만, 극단적인 고립감을 완화하는 데 도움을 줄 수 있습니다. 기술이 제공하는 새로운 관점과 도구를 익히면, 아마도 우리는 이 일상에서 더욱 풍요롭고 감동적인 삶을 살 수 있을지도 모릅니다.
 
-하지만, 이러한 AI 친구에 대한 과도한 의존성은 사용자의 자아 개발과 개인적인 관계 형성을 방해할 수 있습니다. AI 친구들이 현실적인 감정 지원을 제공할 수 있지만, 그들은 실제 인간 관계를 대체할 수 없습니다. 지나치게 AI에 의존하게 되면 사용자의 관계 형성 능력이 저하될 수 있습니다[^zeyi_2023^].
+하지만, 이러한 AI 친구에 대한 과도한 의존성은 사용자의 자아 개발과 개인적인 관계 형성을 방해할 수 있습니다. AI 친구들이 현실적인 감정 지원을 제공할 수 있지만, 그들은 실제 인간 관계를 대체할 수 없습니다. 지나치게 AI에 의존하게 되면 사용자의 관계 형성 능력이 저하될 수 있습니다[^zeyi_2023].
 
-또 다른 중요한 문제는 이러한 AI 친구들이 수집하는 데이터의 보안과 사생활 침해입니다. AI 챗봇이 사용자의 감정과 개인적인 경험을 취급하는 만큼, 이러한 정보의 보안과 사생활 침해 문제가 대두됩니다. AI 커뮤니티는 이러한 문제를 인지하고 혁신적인 해결책을 모색하고 있지만, 이러한 노력들은 완전한 보안을 보장하기에는 아직 부족합니다[^zeyi_2023^].
+또 다른 중요한 문제는 이러한 AI 친구들이 수집하는 데이터의 보안과 사생활 침해입니다. AI 챗봇이 사용자의 감정과 개인적인 경험을 취급하는 만큼, 이러한 정보의 보안과 사생활 침해 문제가 대두됩니다. AI 커뮤니티는 이러한 문제를 인지하고 혁신적인 해결책을 모색하고 있지만, 이러한 노력들은 완전한 보안을 보장하기에는 아직 부족합니다[^zeyi_2023].
 
 AI 친구들은 우리의 익숙한 관계를 새롭게 조명하고 있습니다. AI 친구의 등장은 우리의 사회와 심리에 분명히 변화를 가져올 것입니다. 우리는 이런 변화를 오픈마인드로 받아들이고, 동시에 그것이 사용자의 사회적 생활에 미치는 영향을 잘 이해하려는 노력이 필요합니다.
 
@@ -77,6 +77,6 @@ AI 친구들은 우리의 익숙한 관계를 새롭게 조명하고 있습니�
 
 AI 친구가 새로운 시대를 열어주고, 우리의 일상을 더욱 풍요롭고 알찬 것으로 만들어줄 수 있을지 기대해봅니다.
 
-[^arwa_2023^]: Arwa Mahdawi, [Could an 'emotional support' chatbot help me de-stress? Only one way to find out.](https://www.theguardian.com/commentisfree/2023/may/08/emotional-support-chatbot-ai) The Guardian, May 8, 2023
-[^andreessen_horowitz_2023^]: Alex Immerman & Jamie Sullivan, [Let's Get Personal: Why AI Will Unlock a Massive Market for Online Consumer Services.](https://a16z.com/lets-get-personal-why-ai-will-unlock-a-massive-market-for-online-consumer-services/), Andreessen Horowitz, September 7, 2023
-[^zeyi_2023^]: Zeyi Yang, [Chinese AI chatbots want to be your emotional support.](https://www.technologyreview.com/2023/09/06/1079026/chinese-ai-chatbots-emotional-support/), MIT Technology Review, September 6, 2023
+[^arwa_2023]: Arwa Mahdawi, [Could an 'emotional support' chatbot help me de-stress? Only one way to find out.](https://www.theguardian.com/commentisfree/2023/may/08/emotional-support-chatbot-ai) The Guardian, May 8, 2023
+[^andreessen_horowitz_2023]: Alex Immerman & Jamie Sullivan, [Let's Get Personal: Why AI Will Unlock a Massive Market for Online Consumer Services.](https://a16z.com/lets-get-personal-why-ai-will-unlock-a-massive-market-for-online-consumer-services/), Andreessen Horowitz, September 7, 2023
+[^zeyi_2023]: Zeyi Yang, [Chinese AI chatbots want to be your emotional support.](https://www.technologyreview.com/2023/09/06/1079026/chinese-ai-chatbots-emotional-support/), MIT Technology Review, September 6, 2023
